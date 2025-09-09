@@ -1,0 +1,36 @@
+main_category,subcategory,count,percentage_of_total
+Ads Related Issues,Too many ads / ads gating,36,3.20
+Ads Related Issues,Misleading ads / bait-and-switch,6,0.53
+Ads Related Issues,Ad quality / inappropriate ads,3,0.27
+Ads Related Issues,Forced ad watching,5,0.44
+Coins Related Issues,Too expensive / high coin cost,183,16.27
+Coins Related Issues,Subscription needed / pricing model,122,10.84
+Coins Related Issues,Too slow unlock / few free episodes,4,0.36
+Coins Related Issues,Coin system confusing,5,0.44
+Coins Related Issues,Unauthorized charges / billing issues,8,0.71
+Content Discovery Issues,Search / discoverability problems,2,0.18
+Content Discovery Issues,Auto-starts other series,2,0.18
+Content Discovery Issues,Lack of new content,3,0.27
+Content Discovery Issues,Content organization / categories,3,0.27
+Listening Related Issues,Crashes / app not working,45,4.00
+Listening Related Issues,Offline / download issues,64,5.69
+Listening Related Issues,Buffering / won't load,30,2.67
+Listening Related Issues,Playback jumps / episode switching,2,0.18
+Listening Related Issues,Audio quality / sync issues,4,0.36
+Listening Related Issues,Notifications / interruptions,18,1.60
+Content Quality Issues,AI voices / poor narration quality,16,1.42
+Content Quality Issues,Visual vs audio expectation mismatch,8,0.71
+Content Quality Issues,Story quality / content issues,2,0.18
+Content Quality Issues,Translation / language issues,11,0.98
+Content Quality Issues,Missing visual content,2,0.18
+User Experience Issues,Interface / navigation problems,66,5.87
+User Experience Issues,Login / account issues,27,2.40
+User Experience Issues,Settings / customization problems,8,0.71
+User Experience Issues,App performance / speed,40,3.56
+User Experience Issues,Update / compatibility issues,44,3.91
+Support & Service Issues,Support unresponsive,54,4.80
+Support & Service Issues,Refund / billing disputes,12,1.07
+Support & Service Issues,Communication / transparency,9,0.80
+Localization Issues,Missing languages / dubbing,9,0.80
+Localization Issues,Regional content availability,8,0.71
+Localization Issues,Time zone / scheduling problems,1,0.09

@@ -1,0 +1,3457 @@
+day,category,count
+0,Listening Related Issues,1
+0,Ads Related Issues,0
+0,Coins Related Issues,0
+0,Content Discovery Issues,0
+0,Content Quality Issues,0
+0,User Experience Issues,0
+0,Support & Service Issues,0
+0,Localization Issues,0
+1,Ads Related Issues,1
+1,Coins Related Issues,0
+1,Content Discovery Issues,0
+1,Listening Related Issues,0
+1,Content Quality Issues,0
+1,User Experience Issues,0
+1,Support & Service Issues,0
+1,Localization Issues,0
+2,Coins Related Issues,1
+2,Ads Related Issues,0
+2,Content Discovery Issues,0
+2,Listening Related Issues,0
+2,Content Quality Issues,0
+2,User Experience Issues,0
+2,Support & Service Issues,0
+2,Localization Issues,0
+4,Coins Related Issues,1
+4,Ads Related Issues,0
+4,Content Discovery Issues,0
+4,Listening Related Issues,0
+4,Content Quality Issues,0
+4,User Experience Issues,0
+4,Support & Service Issues,0
+4,Localization Issues,0
+5,Ads Related Issues,1
+5,User Experience Issues,3
+5,Coins Related Issues,0
+5,Content Discovery Issues,0
+5,Listening Related Issues,0
+5,Content Quality Issues,0
+5,Support & Service Issues,0
+5,Localization Issues,0
+6,User Experience Issues,1
+6,Ads Related Issues,0
+6,Coins Related Issues,0
+6,Content Discovery Issues,0
+6,Listening Related Issues,0
+6,Content Quality Issues,0
+6,Support & Service Issues,0
+6,Localization Issues,0
+8,Coins Related Issues,3
+8,User Experience Issues,1
+8,Ads Related Issues,1
+8,Content Discovery Issues,0
+8,Listening Related Issues,0
+8,Content Quality Issues,0
+8,Support & Service Issues,0
+8,Localization Issues,0
+9,Ads Related Issues,1
+9,Listening Related Issues,2
+9,User Experience Issues,1
+9,Coins Related Issues,0
+9,Content Discovery Issues,0
+9,Content Quality Issues,0
+9,Support & Service Issues,0
+9,Localization Issues,0
+10,Coins Related Issues,1
+10,Ads Related Issues,0
+10,Content Discovery Issues,0
+10,Listening Related Issues,0
+10,Content Quality Issues,0
+10,User Experience Issues,0
+10,Support & Service Issues,0
+10,Localization Issues,0
+11,Coins Related Issues,2
+11,Listening Related Issues,1
+11,User Experience Issues,1
+11,Ads Related Issues,0
+11,Content Discovery Issues,0
+11,Content Quality Issues,0
+11,Support & Service Issues,0
+11,Localization Issues,0
+16,User Experience Issues,1
+16,Ads Related Issues,0
+16,Coins Related Issues,0
+16,Content Discovery Issues,0
+16,Listening Related Issues,0
+16,Content Quality Issues,0
+16,Support & Service Issues,0
+16,Localization Issues,0
+17,Listening Related Issues,1
+17,Content Quality Issues,1
+17,Coins Related Issues,1
+17,Content Discovery Issues,1
+17,Ads Related Issues,0
+17,User Experience Issues,0
+17,Support & Service Issues,0
+17,Localization Issues,0
+18,User Experience Issues,1
+18,Content Quality Issues,1
+18,Ads Related Issues,0
+18,Coins Related Issues,0
+18,Content Discovery Issues,0
+18,Listening Related Issues,0
+18,Support & Service Issues,0
+18,Localization Issues,0
+19,Listening Related Issues,1
+19,Coins Related Issues,1
+19,User Experience Issues,2
+19,Ads Related Issues,0
+19,Content Discovery Issues,0
+19,Content Quality Issues,0
+19,Support & Service Issues,0
+19,Localization Issues,0
+20,Coins Related Issues,2
+20,Ads Related Issues,0
+20,Content Discovery Issues,0
+20,Listening Related Issues,0
+20,Content Quality Issues,0
+20,User Experience Issues,0
+20,Support & Service Issues,0
+20,Localization Issues,0
+21,Listening Related Issues,2
+21,Ads Related Issues,0
+21,Coins Related Issues,0
+21,Content Discovery Issues,0
+21,Content Quality Issues,0
+21,User Experience Issues,0
+21,Support & Service Issues,0
+21,Localization Issues,0
+22,Coins Related Issues,1
+22,Ads Related Issues,0
+22,Content Discovery Issues,0
+22,Listening Related Issues,0
+22,Content Quality Issues,0
+22,User Experience Issues,0
+22,Support & Service Issues,0
+22,Localization Issues,0
+25,Coins Related Issues,2
+25,User Experience Issues,1
+25,Ads Related Issues,0
+25,Content Discovery Issues,0
+25,Listening Related Issues,0
+25,Content Quality Issues,0
+25,Support & Service Issues,0
+25,Localization Issues,0
+26,Listening Related Issues,2
+26,Coins Related Issues,2
+26,Localization Issues,1
+26,Ads Related Issues,0
+26,Content Discovery Issues,0
+26,Content Quality Issues,0
+26,User Experience Issues,0
+26,Support & Service Issues,0
+27,Coins Related Issues,2
+27,User Experience Issues,1
+27,Ads Related Issues,0
+27,Content Discovery Issues,0
+27,Listening Related Issues,0
+27,Content Quality Issues,0
+27,Support & Service Issues,0
+27,Localization Issues,0
+28,Coins Related Issues,1
+28,Ads Related Issues,1
+28,Content Discovery Issues,0
+28,Listening Related Issues,0
+28,Content Quality Issues,0
+28,User Experience Issues,0
+28,Support & Service Issues,0
+28,Localization Issues,0
+29,Coins Related Issues,1
+29,Ads Related Issues,0
+29,Content Discovery Issues,0
+29,Listening Related Issues,0
+29,Content Quality Issues,0
+29,User Experience Issues,0
+29,Support & Service Issues,0
+29,Localization Issues,0
+30,Ads Related Issues,1
+30,Coins Related Issues,0
+30,Content Discovery Issues,0
+30,Listening Related Issues,0
+30,Content Quality Issues,0
+30,User Experience Issues,0
+30,Support & Service Issues,0
+30,Localization Issues,0
+31,Support & Service Issues,1
+31,Ads Related Issues,0
+31,Coins Related Issues,0
+31,Content Discovery Issues,0
+31,Listening Related Issues,0
+31,Content Quality Issues,0
+31,User Experience Issues,0
+31,Localization Issues,0
+32,Listening Related Issues,1
+32,Ads Related Issues,0
+32,Coins Related Issues,0
+32,Content Discovery Issues,0
+32,Content Quality Issues,0
+32,User Experience Issues,0
+32,Support & Service Issues,0
+32,Localization Issues,0
+33,Listening Related Issues,1
+33,User Experience Issues,1
+33,Support & Service Issues,1
+33,Ads Related Issues,0
+33,Coins Related Issues,0
+33,Content Discovery Issues,0
+33,Content Quality Issues,0
+33,Localization Issues,0
+34,Listening Related Issues,2
+34,User Experience Issues,1
+34,Ads Related Issues,0
+34,Coins Related Issues,0
+34,Content Discovery Issues,0
+34,Content Quality Issues,0
+34,Support & Service Issues,0
+34,Localization Issues,0
+35,Coins Related Issues,1
+35,Ads Related Issues,0
+35,Content Discovery Issues,0
+35,Listening Related Issues,0
+35,Content Quality Issues,0
+35,User Experience Issues,0
+35,Support & Service Issues,0
+35,Localization Issues,0
+38,User Experience Issues,1
+38,Listening Related Issues,1
+38,Ads Related Issues,0
+38,Coins Related Issues,0
+38,Content Discovery Issues,0
+38,Content Quality Issues,0
+38,Support & Service Issues,0
+38,Localization Issues,0
+40,Coins Related Issues,2
+40,Support & Service Issues,1
+40,Ads Related Issues,0
+40,Content Discovery Issues,0
+40,Listening Related Issues,0
+40,Content Quality Issues,0
+40,User Experience Issues,0
+40,Localization Issues,0
+41,User Experience Issues,1
+41,Ads Related Issues,0
+41,Coins Related Issues,0
+41,Content Discovery Issues,0
+41,Listening Related Issues,0
+41,Content Quality Issues,0
+41,Support & Service Issues,0
+41,Localization Issues,0
+43,User Experience Issues,2
+43,Ads Related Issues,0
+43,Coins Related Issues,0
+43,Content Discovery Issues,0
+43,Listening Related Issues,0
+43,Content Quality Issues,0
+43,Support & Service Issues,0
+43,Localization Issues,0
+45,Coins Related Issues,2
+45,Ads Related Issues,0
+45,Content Discovery Issues,0
+45,Listening Related Issues,0
+45,Content Quality Issues,0
+45,User Experience Issues,0
+45,Support & Service Issues,0
+45,Localization Issues,0
+46,User Experience Issues,1
+46,Support & Service Issues,1
+46,Coins Related Issues,1
+46,Ads Related Issues,0
+46,Content Discovery Issues,0
+46,Listening Related Issues,0
+46,Content Quality Issues,0
+46,Localization Issues,0
+47,Coins Related Issues,1
+47,Ads Related Issues,0
+47,Content Discovery Issues,0
+47,Listening Related Issues,0
+47,Content Quality Issues,0
+47,User Experience Issues,0
+47,Support & Service Issues,0
+47,Localization Issues,0
+48,Coins Related Issues,1
+48,Listening Related Issues,1
+48,User Experience Issues,1
+48,Ads Related Issues,0
+48,Content Discovery Issues,0
+48,Content Quality Issues,0
+48,Support & Service Issues,0
+48,Localization Issues,0
+50,Coins Related Issues,1
+50,Ads Related Issues,0
+50,Content Discovery Issues,0
+50,Listening Related Issues,0
+50,Content Quality Issues,0
+50,User Experience Issues,0
+50,Support & Service Issues,0
+50,Localization Issues,0
+51,User Experience Issues,1
+51,Ads Related Issues,0
+51,Coins Related Issues,0
+51,Content Discovery Issues,0
+51,Listening Related Issues,0
+51,Content Quality Issues,0
+51,Support & Service Issues,0
+51,Localization Issues,0
+52,Coins Related Issues,3
+52,Ads Related Issues,0
+52,Content Discovery Issues,0
+52,Listening Related Issues,0
+52,Content Quality Issues,0
+52,User Experience Issues,0
+52,Support & Service Issues,0
+52,Localization Issues,0
+54,Coins Related Issues,1
+54,Listening Related Issues,1
+54,Ads Related Issues,0
+54,Content Discovery Issues,0
+54,Content Quality Issues,0
+54,User Experience Issues,0
+54,Support & Service Issues,0
+54,Localization Issues,0
+55,Coins Related Issues,1
+55,Ads Related Issues,0
+55,Content Discovery Issues,0
+55,Listening Related Issues,0
+55,Content Quality Issues,0
+55,User Experience Issues,0
+55,Support & Service Issues,0
+55,Localization Issues,0
+57,Listening Related Issues,1
+57,Ads Related Issues,0
+57,Coins Related Issues,0
+57,Content Discovery Issues,0
+57,Content Quality Issues,0
+57,User Experience Issues,0
+57,Support & Service Issues,0
+57,Localization Issues,0
+58,Content Quality Issues,1
+58,Localization Issues,1
+58,Ads Related Issues,0
+58,Coins Related Issues,0
+58,Content Discovery Issues,0
+58,Listening Related Issues,0
+58,User Experience Issues,0
+58,Support & Service Issues,0
+59,User Experience Issues,1
+59,Ads Related Issues,0
+59,Coins Related Issues,0
+59,Content Discovery Issues,0
+59,Listening Related Issues,0
+59,Content Quality Issues,0
+59,Support & Service Issues,0
+59,Localization Issues,0
+60,Coins Related Issues,1
+60,Listening Related Issues,1
+60,Content Quality Issues,1
+60,User Experience Issues,1
+60,Localization Issues,1
+60,Ads Related Issues,0
+60,Content Discovery Issues,0
+60,Support & Service Issues,0
+61,Listening Related Issues,1
+61,Ads Related Issues,0
+61,Coins Related Issues,0
+61,Content Discovery Issues,0
+61,Content Quality Issues,0
+61,User Experience Issues,0
+61,Support & Service Issues,0
+61,Localization Issues,0
+64,Listening Related Issues,1
+64,Coins Related Issues,1
+64,Support & Service Issues,1
+64,Ads Related Issues,0
+64,Content Discovery Issues,0
+64,Content Quality Issues,0
+64,User Experience Issues,0
+64,Localization Issues,0
+65,Coins Related Issues,1
+65,Listening Related Issues,1
+65,Ads Related Issues,0
+65,Content Discovery Issues,0
+65,Content Quality Issues,0
+65,User Experience Issues,0
+65,Support & Service Issues,0
+65,Localization Issues,0
+68,Coins Related Issues,1
+68,Ads Related Issues,0
+68,Content Discovery Issues,0
+68,Listening Related Issues,0
+68,Content Quality Issues,0
+68,User Experience Issues,0
+68,Support & Service Issues,0
+68,Localization Issues,0
+69,Coins Related Issues,1
+69,Ads Related Issues,0
+69,Content Discovery Issues,0
+69,Listening Related Issues,0
+69,Content Quality Issues,0
+69,User Experience Issues,0
+69,Support & Service Issues,0
+69,Localization Issues,0
+70,User Experience Issues,1
+70,Ads Related Issues,0
+70,Coins Related Issues,0
+70,Content Discovery Issues,0
+70,Listening Related Issues,0
+70,Content Quality Issues,0
+70,Support & Service Issues,0
+70,Localization Issues,0
+71,Coins Related Issues,1
+71,Ads Related Issues,0
+71,Content Discovery Issues,0
+71,Listening Related Issues,0
+71,Content Quality Issues,0
+71,User Experience Issues,0
+71,Support & Service Issues,0
+71,Localization Issues,0
+72,Listening Related Issues,1
+72,User Experience Issues,1
+72,Ads Related Issues,0
+72,Coins Related Issues,0
+72,Content Discovery Issues,0
+72,Content Quality Issues,0
+72,Support & Service Issues,0
+72,Localization Issues,0
+73,Listening Related Issues,1
+73,Ads Related Issues,0
+73,Coins Related Issues,0
+73,Content Discovery Issues,0
+73,Content Quality Issues,0
+73,User Experience Issues,0
+73,Support & Service Issues,0
+73,Localization Issues,0
+74,Coins Related Issues,2
+74,Ads Related Issues,0
+74,Content Discovery Issues,0
+74,Listening Related Issues,0
+74,Content Quality Issues,0
+74,User Experience Issues,0
+74,Support & Service Issues,0
+74,Localization Issues,0
+76,Coins Related Issues,1
+76,Ads Related Issues,0
+76,Content Discovery Issues,0
+76,Listening Related Issues,0
+76,Content Quality Issues,0
+76,User Experience Issues,0
+76,Support & Service Issues,0
+76,Localization Issues,0
+77,Ads Related Issues,1
+77,Coins Related Issues,0
+77,Content Discovery Issues,0
+77,Listening Related Issues,0
+77,Content Quality Issues,0
+77,User Experience Issues,0
+77,Support & Service Issues,0
+77,Localization Issues,0
+79,User Experience Issues,1
+79,Ads Related Issues,0
+79,Coins Related Issues,0
+79,Content Discovery Issues,0
+79,Listening Related Issues,0
+79,Content Quality Issues,0
+79,Support & Service Issues,0
+79,Localization Issues,0
+80,User Experience Issues,1
+80,Ads Related Issues,0
+80,Coins Related Issues,0
+80,Content Discovery Issues,0
+80,Listening Related Issues,0
+80,Content Quality Issues,0
+80,Support & Service Issues,0
+80,Localization Issues,0
+82,Coins Related Issues,2
+82,Support & Service Issues,1
+82,Listening Related Issues,1
+82,Ads Related Issues,1
+82,Content Discovery Issues,0
+82,Content Quality Issues,0
+82,User Experience Issues,0
+82,Localization Issues,0
+83,Support & Service Issues,1
+83,Ads Related Issues,0
+83,Coins Related Issues,0
+83,Content Discovery Issues,0
+83,Listening Related Issues,0
+83,Content Quality Issues,0
+83,User Experience Issues,0
+83,Localization Issues,0
+85,Listening Related Issues,3
+85,User Experience Issues,2
+85,Support & Service Issues,1
+85,Ads Related Issues,0
+85,Coins Related Issues,0
+85,Content Discovery Issues,0
+85,Content Quality Issues,0
+85,Localization Issues,0
+86,Coins Related Issues,1
+86,Ads Related Issues,0
+86,Content Discovery Issues,0
+86,Listening Related Issues,0
+86,Content Quality Issues,0
+86,User Experience Issues,0
+86,Support & Service Issues,0
+86,Localization Issues,0
+88,Coins Related Issues,1
+88,Ads Related Issues,0
+88,Content Discovery Issues,0
+88,Listening Related Issues,0
+88,Content Quality Issues,0
+88,User Experience Issues,0
+88,Support & Service Issues,0
+88,Localization Issues,0
+89,Coins Related Issues,2
+89,Listening Related Issues,2
+89,User Experience Issues,2
+89,Ads Related Issues,0
+89,Content Discovery Issues,0
+89,Content Quality Issues,0
+89,Support & Service Issues,0
+89,Localization Issues,0
+93,Listening Related Issues,1
+93,Ads Related Issues,0
+93,Coins Related Issues,0
+93,Content Discovery Issues,0
+93,Content Quality Issues,0
+93,User Experience Issues,0
+93,Support & Service Issues,0
+93,Localization Issues,0
+94,Coins Related Issues,1
+94,Ads Related Issues,0
+94,Content Discovery Issues,0
+94,Listening Related Issues,0
+94,Content Quality Issues,0
+94,User Experience Issues,0
+94,Support & Service Issues,0
+94,Localization Issues,0
+95,Coins Related Issues,1
+95,Content Quality Issues,1
+95,Ads Related Issues,0
+95,Content Discovery Issues,0
+95,Listening Related Issues,0
+95,User Experience Issues,0
+95,Support & Service Issues,0
+95,Localization Issues,0
+96,Content Quality Issues,1
+96,User Experience Issues,1
+96,Ads Related Issues,0
+96,Coins Related Issues,0
+96,Content Discovery Issues,0
+96,Listening Related Issues,0
+96,Support & Service Issues,0
+96,Localization Issues,0
+98,Content Discovery Issues,1
+98,Listening Related Issues,1
+98,Ads Related Issues,0
+98,Coins Related Issues,0
+98,Content Quality Issues,0
+98,User Experience Issues,0
+98,Support & Service Issues,0
+98,Localization Issues,0
+99,Coins Related Issues,2
+99,Ads Related Issues,0
+99,Content Discovery Issues,0
+99,Listening Related Issues,0
+99,Content Quality Issues,0
+99,User Experience Issues,0
+99,Support & Service Issues,0
+99,Localization Issues,0
+100,Coins Related Issues,1
+100,Ads Related Issues,0
+100,Content Discovery Issues,0
+100,Listening Related Issues,0
+100,Content Quality Issues,0
+100,User Experience Issues,0
+100,Support & Service Issues,0
+100,Localization Issues,0
+103,Listening Related Issues,1
+103,Support & Service Issues,1
+103,Ads Related Issues,0
+103,Coins Related Issues,0
+103,Content Discovery Issues,0
+103,Content Quality Issues,0
+103,User Experience Issues,0
+103,Localization Issues,0
+104,Coins Related Issues,1
+104,Listening Related Issues,1
+104,Ads Related Issues,0
+104,Content Discovery Issues,0
+104,Content Quality Issues,0
+104,User Experience Issues,0
+104,Support & Service Issues,0
+104,Localization Issues,0
+107,User Experience Issues,1
+107,Ads Related Issues,0
+107,Coins Related Issues,0
+107,Content Discovery Issues,0
+107,Listening Related Issues,0
+107,Content Quality Issues,0
+107,Support & Service Issues,0
+107,Localization Issues,0
+108,Content Quality Issues,1
+108,User Experience Issues,1
+108,Ads Related Issues,0
+108,Coins Related Issues,0
+108,Content Discovery Issues,0
+108,Listening Related Issues,0
+108,Support & Service Issues,0
+108,Localization Issues,0
+109,Content Quality Issues,1
+109,Ads Related Issues,0
+109,Coins Related Issues,0
+109,Content Discovery Issues,0
+109,Listening Related Issues,0
+109,User Experience Issues,0
+109,Support & Service Issues,0
+109,Localization Issues,0
+111,Coins Related Issues,1
+111,Ads Related Issues,0
+111,Content Discovery Issues,0
+111,Listening Related Issues,0
+111,Content Quality Issues,0
+111,User Experience Issues,0
+111,Support & Service Issues,0
+111,Localization Issues,0
+112,Listening Related Issues,1
+112,Content Quality Issues,1
+112,Ads Related Issues,0
+112,Coins Related Issues,0
+112,Content Discovery Issues,0
+112,User Experience Issues,0
+112,Support & Service Issues,0
+112,Localization Issues,0
+114,User Experience Issues,2
+114,Support & Service Issues,1
+114,Ads Related Issues,0
+114,Coins Related Issues,0
+114,Content Discovery Issues,0
+114,Listening Related Issues,0
+114,Content Quality Issues,0
+114,Localization Issues,0
+115,Coins Related Issues,1
+115,Listening Related Issues,1
+115,Ads Related Issues,0
+115,Content Discovery Issues,0
+115,Content Quality Issues,0
+115,User Experience Issues,0
+115,Support & Service Issues,0
+115,Localization Issues,0
+116,Ads Related Issues,1
+116,Coins Related Issues,0
+116,Content Discovery Issues,0
+116,Listening Related Issues,0
+116,Content Quality Issues,0
+116,User Experience Issues,0
+116,Support & Service Issues,0
+116,Localization Issues,0
+117,Listening Related Issues,1
+117,User Experience Issues,2
+117,Coins Related Issues,2
+117,Ads Related Issues,0
+117,Content Discovery Issues,0
+117,Content Quality Issues,0
+117,Support & Service Issues,0
+117,Localization Issues,0
+119,Coins Related Issues,2
+119,Ads Related Issues,0
+119,Content Discovery Issues,0
+119,Listening Related Issues,0
+119,Content Quality Issues,0
+119,User Experience Issues,0
+119,Support & Service Issues,0
+119,Localization Issues,0
+122,Ads Related Issues,1
+122,User Experience Issues,1
+122,Coins Related Issues,0
+122,Content Discovery Issues,0
+122,Listening Related Issues,0
+122,Content Quality Issues,0
+122,Support & Service Issues,0
+122,Localization Issues,0
+123,User Experience Issues,1
+123,Coins Related Issues,2
+123,Support & Service Issues,2
+123,Ads Related Issues,0
+123,Content Discovery Issues,0
+123,Listening Related Issues,0
+123,Content Quality Issues,0
+123,Localization Issues,0
+125,User Experience Issues,1
+125,Ads Related Issues,0
+125,Coins Related Issues,0
+125,Content Discovery Issues,0
+125,Listening Related Issues,0
+125,Content Quality Issues,0
+125,Support & Service Issues,0
+125,Localization Issues,0
+126,Coins Related Issues,3
+126,Listening Related Issues,1
+126,Ads Related Issues,0
+126,Content Discovery Issues,0
+126,Content Quality Issues,0
+126,User Experience Issues,0
+126,Support & Service Issues,0
+126,Localization Issues,0
+128,Ads Related Issues,1
+128,Listening Related Issues,1
+128,Coins Related Issues,0
+128,Content Discovery Issues,0
+128,Content Quality Issues,0
+128,User Experience Issues,0
+128,Support & Service Issues,0
+128,Localization Issues,0
+130,Ads Related Issues,1
+130,Listening Related Issues,1
+130,Coins Related Issues,0
+130,Content Discovery Issues,0
+130,Content Quality Issues,0
+130,User Experience Issues,0
+130,Support & Service Issues,0
+130,Localization Issues,0
+131,Support & Service Issues,1
+131,Ads Related Issues,0
+131,Coins Related Issues,0
+131,Content Discovery Issues,0
+131,Listening Related Issues,0
+131,Content Quality Issues,0
+131,User Experience Issues,0
+131,Localization Issues,0
+132,Coins Related Issues,2
+132,Content Quality Issues,1
+132,Ads Related Issues,0
+132,Content Discovery Issues,0
+132,Listening Related Issues,0
+132,User Experience Issues,0
+132,Support & Service Issues,0
+132,Localization Issues,0
+133,Coins Related Issues,1
+133,Support & Service Issues,3
+133,Content Quality Issues,1
+133,Ads Related Issues,0
+133,Content Discovery Issues,0
+133,Listening Related Issues,0
+133,User Experience Issues,0
+133,Localization Issues,0
+134,Coins Related Issues,2
+134,Support & Service Issues,1
+134,Ads Related Issues,0
+134,Content Discovery Issues,0
+134,Listening Related Issues,0
+134,Content Quality Issues,0
+134,User Experience Issues,0
+134,Localization Issues,0
+135,Content Quality Issues,2
+135,Ads Related Issues,0
+135,Coins Related Issues,0
+135,Content Discovery Issues,0
+135,Listening Related Issues,0
+135,User Experience Issues,0
+135,Support & Service Issues,0
+135,Localization Issues,0
+136,Listening Related Issues,1
+136,User Experience Issues,2
+136,Coins Related Issues,1
+136,Ads Related Issues,0
+136,Content Discovery Issues,0
+136,Content Quality Issues,0
+136,Support & Service Issues,0
+136,Localization Issues,0
+138,Coins Related Issues,1
+138,Ads Related Issues,0
+138,Content Discovery Issues,0
+138,Listening Related Issues,0
+138,Content Quality Issues,0
+138,User Experience Issues,0
+138,Support & Service Issues,0
+138,Localization Issues,0
+140,Coins Related Issues,2
+140,Ads Related Issues,0
+140,Content Discovery Issues,0
+140,Listening Related Issues,0
+140,Content Quality Issues,0
+140,User Experience Issues,0
+140,Support & Service Issues,0
+140,Localization Issues,0
+145,User Experience Issues,1
+145,Listening Related Issues,3
+145,Ads Related Issues,0
+145,Coins Related Issues,0
+145,Content Discovery Issues,0
+145,Content Quality Issues,0
+145,Support & Service Issues,0
+145,Localization Issues,0
+146,Support & Service Issues,1
+146,Ads Related Issues,0
+146,Coins Related Issues,0
+146,Content Discovery Issues,0
+146,Listening Related Issues,0
+146,Content Quality Issues,0
+146,User Experience Issues,0
+146,Localization Issues,0
+147,User Experience Issues,1
+147,Ads Related Issues,0
+147,Coins Related Issues,0
+147,Content Discovery Issues,0
+147,Listening Related Issues,0
+147,Content Quality Issues,0
+147,Support & Service Issues,0
+147,Localization Issues,0
+152,Listening Related Issues,1
+152,User Experience Issues,1
+152,Ads Related Issues,0
+152,Coins Related Issues,0
+152,Content Discovery Issues,0
+152,Content Quality Issues,0
+152,Support & Service Issues,0
+152,Localization Issues,0
+153,Listening Related Issues,1
+153,Ads Related Issues,0
+153,Coins Related Issues,0
+153,Content Discovery Issues,0
+153,Content Quality Issues,0
+153,User Experience Issues,0
+153,Support & Service Issues,0
+153,Localization Issues,0
+155,User Experience Issues,1
+155,Ads Related Issues,0
+155,Coins Related Issues,0
+155,Content Discovery Issues,0
+155,Listening Related Issues,0
+155,Content Quality Issues,0
+155,Support & Service Issues,0
+155,Localization Issues,0
+157,Coins Related Issues,1
+157,Ads Related Issues,0
+157,Content Discovery Issues,0
+157,Listening Related Issues,0
+157,Content Quality Issues,0
+157,User Experience Issues,0
+157,Support & Service Issues,0
+157,Localization Issues,0
+158,User Experience Issues,1
+158,Ads Related Issues,0
+158,Coins Related Issues,0
+158,Content Discovery Issues,0
+158,Listening Related Issues,0
+158,Content Quality Issues,0
+158,Support & Service Issues,0
+158,Localization Issues,0
+159,Coins Related Issues,1
+159,Ads Related Issues,0
+159,Content Discovery Issues,0
+159,Listening Related Issues,0
+159,Content Quality Issues,0
+159,User Experience Issues,0
+159,Support & Service Issues,0
+159,Localization Issues,0
+161,Coins Related Issues,2
+161,Ads Related Issues,0
+161,Content Discovery Issues,0
+161,Listening Related Issues,0
+161,Content Quality Issues,0
+161,User Experience Issues,0
+161,Support & Service Issues,0
+161,Localization Issues,0
+162,Listening Related Issues,1
+162,Ads Related Issues,0
+162,Coins Related Issues,0
+162,Content Discovery Issues,0
+162,Content Quality Issues,0
+162,User Experience Issues,0
+162,Support & Service Issues,0
+162,Localization Issues,0
+166,Listening Related Issues,1
+166,Coins Related Issues,1
+166,Ads Related Issues,0
+166,Content Discovery Issues,0
+166,Content Quality Issues,0
+166,User Experience Issues,0
+166,Support & Service Issues,0
+166,Localization Issues,0
+169,Listening Related Issues,3
+169,Ads Related Issues,0
+169,Coins Related Issues,0
+169,Content Discovery Issues,0
+169,Content Quality Issues,0
+169,User Experience Issues,0
+169,Support & Service Issues,0
+169,Localization Issues,0
+170,Coins Related Issues,1
+170,Content Quality Issues,1
+170,Ads Related Issues,0
+170,Content Discovery Issues,0
+170,Listening Related Issues,0
+170,User Experience Issues,0
+170,Support & Service Issues,0
+170,Localization Issues,0
+171,Listening Related Issues,1
+171,User Experience Issues,2
+171,Ads Related Issues,1
+171,Coins Related Issues,0
+171,Content Discovery Issues,0
+171,Content Quality Issues,0
+171,Support & Service Issues,0
+171,Localization Issues,0
+172,Support & Service Issues,1
+172,Ads Related Issues,0
+172,Coins Related Issues,0
+172,Content Discovery Issues,0
+172,Listening Related Issues,0
+172,Content Quality Issues,0
+172,User Experience Issues,0
+172,Localization Issues,0
+176,Coins Related Issues,1
+176,Support & Service Issues,1
+176,Ads Related Issues,0
+176,Content Discovery Issues,0
+176,Listening Related Issues,0
+176,Content Quality Issues,0
+176,User Experience Issues,0
+176,Localization Issues,0
+178,Listening Related Issues,1
+178,Coins Related Issues,1
+178,Ads Related Issues,0
+178,Content Discovery Issues,0
+178,Content Quality Issues,0
+178,User Experience Issues,0
+178,Support & Service Issues,0
+178,Localization Issues,0
+179,User Experience Issues,1
+179,Support & Service Issues,1
+179,Ads Related Issues,0
+179,Coins Related Issues,0
+179,Content Discovery Issues,0
+179,Listening Related Issues,0
+179,Content Quality Issues,0
+179,Localization Issues,0
+181,Ads Related Issues,1
+181,Coins Related Issues,0
+181,Content Discovery Issues,0
+181,Listening Related Issues,0
+181,Content Quality Issues,0
+181,User Experience Issues,0
+181,Support & Service Issues,0
+181,Localization Issues,0
+182,Ads Related Issues,1
+182,Coins Related Issues,2
+182,Content Discovery Issues,0
+182,Listening Related Issues,0
+182,Content Quality Issues,0
+182,User Experience Issues,0
+182,Support & Service Issues,0
+182,Localization Issues,0
+183,Coins Related Issues,1
+183,Ads Related Issues,0
+183,Content Discovery Issues,0
+183,Listening Related Issues,0
+183,Content Quality Issues,0
+183,User Experience Issues,0
+183,Support & Service Issues,0
+183,Localization Issues,0
+184,Content Quality Issues,1
+184,Ads Related Issues,0
+184,Coins Related Issues,0
+184,Content Discovery Issues,0
+184,Listening Related Issues,0
+184,User Experience Issues,0
+184,Support & Service Issues,0
+184,Localization Issues,0
+185,Content Quality Issues,1
+185,Ads Related Issues,0
+185,Coins Related Issues,0
+185,Content Discovery Issues,0
+185,Listening Related Issues,0
+185,User Experience Issues,0
+185,Support & Service Issues,0
+185,Localization Issues,0
+188,Listening Related Issues,1
+188,Ads Related Issues,0
+188,Coins Related Issues,0
+188,Content Discovery Issues,0
+188,Content Quality Issues,0
+188,User Experience Issues,0
+188,Support & Service Issues,0
+188,Localization Issues,0
+189,Coins Related Issues,1
+189,Ads Related Issues,0
+189,Content Discovery Issues,0
+189,Listening Related Issues,0
+189,Content Quality Issues,0
+189,User Experience Issues,0
+189,Support & Service Issues,0
+189,Localization Issues,0
+196,Coins Related Issues,1
+196,Ads Related Issues,0
+196,Content Discovery Issues,0
+196,Listening Related Issues,0
+196,Content Quality Issues,0
+196,User Experience Issues,0
+196,Support & Service Issues,0
+196,Localization Issues,0
+197,Listening Related Issues,1
+197,Support & Service Issues,1
+197,Ads Related Issues,0
+197,Coins Related Issues,0
+197,Content Discovery Issues,0
+197,Content Quality Issues,0
+197,User Experience Issues,0
+197,Localization Issues,0
+200,Coins Related Issues,1
+200,Ads Related Issues,0
+200,Content Discovery Issues,0
+200,Listening Related Issues,0
+200,Content Quality Issues,0
+200,User Experience Issues,0
+200,Support & Service Issues,0
+200,Localization Issues,0
+201,Ads Related Issues,1
+201,Coins Related Issues,1
+201,Support & Service Issues,1
+201,Content Discovery Issues,0
+201,Listening Related Issues,0
+201,Content Quality Issues,0
+201,User Experience Issues,0
+201,Localization Issues,0
+203,Coins Related Issues,1
+203,Ads Related Issues,0
+203,Content Discovery Issues,0
+203,Listening Related Issues,0
+203,Content Quality Issues,0
+203,User Experience Issues,0
+203,Support & Service Issues,0
+203,Localization Issues,0
+205,Coins Related Issues,1
+205,User Experience Issues,2
+205,Ads Related Issues,1
+205,Content Discovery Issues,0
+205,Listening Related Issues,0
+205,Content Quality Issues,0
+205,Support & Service Issues,0
+205,Localization Issues,0
+206,User Experience Issues,1
+206,Ads Related Issues,0
+206,Coins Related Issues,0
+206,Content Discovery Issues,0
+206,Listening Related Issues,0
+206,Content Quality Issues,0
+206,Support & Service Issues,0
+206,Localization Issues,0
+208,User Experience Issues,1
+208,Ads Related Issues,0
+208,Coins Related Issues,0
+208,Content Discovery Issues,0
+208,Listening Related Issues,0
+208,Content Quality Issues,0
+208,Support & Service Issues,0
+208,Localization Issues,0
+209,Coins Related Issues,1
+209,Listening Related Issues,1
+209,Ads Related Issues,0
+209,Content Discovery Issues,0
+209,Content Quality Issues,0
+209,User Experience Issues,0
+209,Support & Service Issues,0
+209,Localization Issues,0
+210,Listening Related Issues,1
+210,Ads Related Issues,0
+210,Coins Related Issues,0
+210,Content Discovery Issues,0
+210,Content Quality Issues,0
+210,User Experience Issues,0
+210,Support & Service Issues,0
+210,Localization Issues,0
+211,Listening Related Issues,1
+211,User Experience Issues,1
+211,Ads Related Issues,0
+211,Coins Related Issues,0
+211,Content Discovery Issues,0
+211,Content Quality Issues,0
+211,Support & Service Issues,0
+211,Localization Issues,0
+212,Coins Related Issues,1
+212,Ads Related Issues,0
+212,Content Discovery Issues,0
+212,Listening Related Issues,0
+212,Content Quality Issues,0
+212,User Experience Issues,0
+212,Support & Service Issues,0
+212,Localization Issues,0
+214,Content Quality Issues,1
+214,Coins Related Issues,2
+214,User Experience Issues,1
+214,Support & Service Issues,1
+214,Ads Related Issues,0
+214,Content Discovery Issues,0
+214,Listening Related Issues,0
+214,Localization Issues,0
+215,Listening Related Issues,2
+215,Ads Related Issues,0
+215,Coins Related Issues,0
+215,Content Discovery Issues,0
+215,Content Quality Issues,0
+215,User Experience Issues,0
+215,Support & Service Issues,0
+215,Localization Issues,0
+218,Listening Related Issues,3
+218,User Experience Issues,1
+218,Ads Related Issues,0
+218,Coins Related Issues,0
+218,Content Discovery Issues,0
+218,Content Quality Issues,0
+218,Support & Service Issues,0
+218,Localization Issues,0
+219,Coins Related Issues,1
+219,Ads Related Issues,0
+219,Content Discovery Issues,0
+219,Listening Related Issues,0
+219,Content Quality Issues,0
+219,User Experience Issues,0
+219,Support & Service Issues,0
+219,Localization Issues,0
+222,Coins Related Issues,1
+222,Ads Related Issues,0
+222,Content Discovery Issues,0
+222,Listening Related Issues,0
+222,Content Quality Issues,0
+222,User Experience Issues,0
+222,Support & Service Issues,0
+222,Localization Issues,0
+223,Listening Related Issues,1
+223,Ads Related Issues,0
+223,Coins Related Issues,0
+223,Content Discovery Issues,0
+223,Content Quality Issues,0
+223,User Experience Issues,0
+223,Support & Service Issues,0
+223,Localization Issues,0
+227,Coins Related Issues,1
+227,Ads Related Issues,0
+227,Content Discovery Issues,0
+227,Listening Related Issues,0
+227,Content Quality Issues,0
+227,User Experience Issues,0
+227,Support & Service Issues,0
+227,Localization Issues,0
+230,Listening Related Issues,2
+230,User Experience Issues,2
+230,Ads Related Issues,0
+230,Coins Related Issues,0
+230,Content Discovery Issues,0
+230,Content Quality Issues,0
+230,Support & Service Issues,0
+230,Localization Issues,0
+232,Coins Related Issues,1
+232,Ads Related Issues,0
+232,Content Discovery Issues,0
+232,Listening Related Issues,0
+232,Content Quality Issues,0
+232,User Experience Issues,0
+232,Support & Service Issues,0
+232,Localization Issues,0
+233,Ads Related Issues,1
+233,Coins Related Issues,0
+233,Content Discovery Issues,0
+233,Listening Related Issues,0
+233,Content Quality Issues,0
+233,User Experience Issues,0
+233,Support & Service Issues,0
+233,Localization Issues,0
+237,Coins Related Issues,1
+237,Ads Related Issues,0
+237,Content Discovery Issues,0
+237,Listening Related Issues,0
+237,Content Quality Issues,0
+237,User Experience Issues,0
+237,Support & Service Issues,0
+237,Localization Issues,0
+240,Listening Related Issues,1
+240,Ads Related Issues,0
+240,Coins Related Issues,0
+240,Content Discovery Issues,0
+240,Content Quality Issues,0
+240,User Experience Issues,0
+240,Support & Service Issues,0
+240,Localization Issues,0
+241,User Experience Issues,1
+241,Ads Related Issues,0
+241,Coins Related Issues,0
+241,Content Discovery Issues,0
+241,Listening Related Issues,0
+241,Content Quality Issues,0
+241,Support & Service Issues,0
+241,Localization Issues,0
+242,Coins Related Issues,1
+242,User Experience Issues,1
+242,Ads Related Issues,0
+242,Content Discovery Issues,0
+242,Listening Related Issues,0
+242,Content Quality Issues,0
+242,Support & Service Issues,0
+242,Localization Issues,0
+243,Listening Related Issues,1
+243,User Experience Issues,1
+243,Ads Related Issues,0
+243,Coins Related Issues,0
+243,Content Discovery Issues,0
+243,Content Quality Issues,0
+243,Support & Service Issues,0
+243,Localization Issues,0
+244,Coins Related Issues,1
+244,Ads Related Issues,0
+244,Content Discovery Issues,0
+244,Listening Related Issues,0
+244,Content Quality Issues,0
+244,User Experience Issues,0
+244,Support & Service Issues,0
+244,Localization Issues,0
+245,Listening Related Issues,1
+245,Support & Service Issues,1
+245,Ads Related Issues,0
+245,Coins Related Issues,0
+245,Content Discovery Issues,0
+245,Content Quality Issues,0
+245,User Experience Issues,0
+245,Localization Issues,0
+246,Coins Related Issues,2
+246,Listening Related Issues,1
+246,Ads Related Issues,0
+246,Content Discovery Issues,0
+246,Content Quality Issues,0
+246,User Experience Issues,0
+246,Support & Service Issues,0
+246,Localization Issues,0
+248,Coins Related Issues,1
+248,Content Quality Issues,1
+248,Ads Related Issues,0
+248,Content Discovery Issues,0
+248,Listening Related Issues,0
+248,User Experience Issues,0
+248,Support & Service Issues,0
+248,Localization Issues,0
+250,Content Quality Issues,1
+250,User Experience Issues,1
+250,Ads Related Issues,0
+250,Coins Related Issues,0
+250,Content Discovery Issues,0
+250,Listening Related Issues,0
+250,Support & Service Issues,0
+250,Localization Issues,0
+251,Coins Related Issues,1
+251,Listening Related Issues,1
+251,Ads Related Issues,0
+251,Content Discovery Issues,0
+251,Content Quality Issues,0
+251,User Experience Issues,0
+251,Support & Service Issues,0
+251,Localization Issues,0
+253,Coins Related Issues,1
+253,Support & Service Issues,1
+253,Ads Related Issues,0
+253,Content Discovery Issues,0
+253,Listening Related Issues,0
+253,Content Quality Issues,0
+253,User Experience Issues,0
+253,Localization Issues,0
+255,Coins Related Issues,2
+255,Ads Related Issues,0
+255,Content Discovery Issues,0
+255,Listening Related Issues,0
+255,Content Quality Issues,0
+255,User Experience Issues,0
+255,Support & Service Issues,0
+255,Localization Issues,0
+260,Coins Related Issues,1
+260,Ads Related Issues,0
+260,Content Discovery Issues,0
+260,Listening Related Issues,0
+260,Content Quality Issues,0
+260,User Experience Issues,0
+260,Support & Service Issues,0
+260,Localization Issues,0
+263,User Experience Issues,1
+263,Support & Service Issues,1
+263,Ads Related Issues,0
+263,Coins Related Issues,0
+263,Content Discovery Issues,0
+263,Listening Related Issues,0
+263,Content Quality Issues,0
+263,Localization Issues,0
+265,User Experience Issues,1
+265,Ads Related Issues,0
+265,Coins Related Issues,0
+265,Content Discovery Issues,0
+265,Listening Related Issues,0
+265,Content Quality Issues,0
+265,Support & Service Issues,0
+265,Localization Issues,0
+267,Content Quality Issues,1
+267,Ads Related Issues,0
+267,Coins Related Issues,0
+267,Content Discovery Issues,0
+267,Listening Related Issues,0
+267,User Experience Issues,0
+267,Support & Service Issues,0
+267,Localization Issues,0
+268,Localization Issues,1
+268,Listening Related Issues,1
+268,User Experience Issues,2
+268,Ads Related Issues,0
+268,Coins Related Issues,0
+268,Content Discovery Issues,0
+268,Content Quality Issues,0
+268,Support & Service Issues,0
+281,Coins Related Issues,1
+281,Ads Related Issues,0
+281,Content Discovery Issues,0
+281,Listening Related Issues,0
+281,Content Quality Issues,0
+281,User Experience Issues,0
+281,Support & Service Issues,0
+281,Localization Issues,0
+282,Listening Related Issues,2
+282,Coins Related Issues,1
+282,Ads Related Issues,0
+282,Content Discovery Issues,0
+282,Content Quality Issues,0
+282,User Experience Issues,0
+282,Support & Service Issues,0
+282,Localization Issues,0
+283,Coins Related Issues,1
+283,Ads Related Issues,0
+283,Content Discovery Issues,0
+283,Listening Related Issues,0
+283,Content Quality Issues,0
+283,User Experience Issues,0
+283,Support & Service Issues,0
+283,Localization Issues,0
+284,Coins Related Issues,1
+284,Ads Related Issues,0
+284,Content Discovery Issues,0
+284,Listening Related Issues,0
+284,Content Quality Issues,0
+284,User Experience Issues,0
+284,Support & Service Issues,0
+284,Localization Issues,0
+285,Listening Related Issues,3
+285,Support & Service Issues,1
+285,Ads Related Issues,0
+285,Coins Related Issues,0
+285,Content Discovery Issues,0
+285,Content Quality Issues,0
+285,User Experience Issues,0
+285,Localization Issues,0
+287,Coins Related Issues,3
+287,Ads Related Issues,0
+287,Content Discovery Issues,0
+287,Listening Related Issues,0
+287,Content Quality Issues,0
+287,User Experience Issues,0
+287,Support & Service Issues,0
+287,Localization Issues,0
+290,Coins Related Issues,3
+290,Ads Related Issues,0
+290,Content Discovery Issues,0
+290,Listening Related Issues,0
+290,Content Quality Issues,0
+290,User Experience Issues,0
+290,Support & Service Issues,0
+290,Localization Issues,0
+291,Coins Related Issues,1
+291,User Experience Issues,1
+291,Ads Related Issues,0
+291,Content Discovery Issues,0
+291,Listening Related Issues,0
+291,Content Quality Issues,0
+291,Support & Service Issues,0
+291,Localization Issues,0
+292,Listening Related Issues,1
+292,User Experience Issues,2
+292,Ads Related Issues,0
+292,Coins Related Issues,0
+292,Content Discovery Issues,0
+292,Content Quality Issues,0
+292,Support & Service Issues,0
+292,Localization Issues,0
+299,Coins Related Issues,1
+299,Ads Related Issues,0
+299,Content Discovery Issues,0
+299,Listening Related Issues,0
+299,Content Quality Issues,0
+299,User Experience Issues,0
+299,Support & Service Issues,0
+299,Localization Issues,0
+300,Listening Related Issues,1
+300,User Experience Issues,1
+300,Ads Related Issues,0
+300,Coins Related Issues,0
+300,Content Discovery Issues,0
+300,Content Quality Issues,0
+300,Support & Service Issues,0
+300,Localization Issues,0
+301,Content Quality Issues,1
+301,Ads Related Issues,0
+301,Coins Related Issues,0
+301,Content Discovery Issues,0
+301,Listening Related Issues,0
+301,User Experience Issues,0
+301,Support & Service Issues,0
+301,Localization Issues,0
+303,Coins Related Issues,1
+303,Ads Related Issues,0
+303,Content Discovery Issues,0
+303,Listening Related Issues,0
+303,Content Quality Issues,0
+303,User Experience Issues,0
+303,Support & Service Issues,0
+303,Localization Issues,0
+304,Ads Related Issues,1
+304,User Experience Issues,2
+304,Coins Related Issues,2
+304,Content Discovery Issues,0
+304,Listening Related Issues,0
+304,Content Quality Issues,0
+304,Support & Service Issues,0
+304,Localization Issues,0
+306,User Experience Issues,1
+306,Ads Related Issues,0
+306,Coins Related Issues,0
+306,Content Discovery Issues,0
+306,Listening Related Issues,0
+306,Content Quality Issues,0
+306,Support & Service Issues,0
+306,Localization Issues,0
+307,Ads Related Issues,1
+307,Coins Related Issues,0
+307,Content Discovery Issues,0
+307,Listening Related Issues,0
+307,Content Quality Issues,0
+307,User Experience Issues,0
+307,Support & Service Issues,0
+307,Localization Issues,0
+308,Coins Related Issues,2
+308,Ads Related Issues,0
+308,Content Discovery Issues,0
+308,Listening Related Issues,0
+308,Content Quality Issues,0
+308,User Experience Issues,0
+308,Support & Service Issues,0
+308,Localization Issues,0
+309,Coins Related Issues,1
+309,Ads Related Issues,0
+309,Content Discovery Issues,0
+309,Listening Related Issues,0
+309,Content Quality Issues,0
+309,User Experience Issues,0
+309,Support & Service Issues,0
+309,Localization Issues,0
+310,Coins Related Issues,1
+310,User Experience Issues,1
+310,Support & Service Issues,1
+310,Ads Related Issues,0
+310,Content Discovery Issues,0
+310,Listening Related Issues,0
+310,Content Quality Issues,0
+310,Localization Issues,0
+312,User Experience Issues,1
+312,Ads Related Issues,0
+312,Coins Related Issues,0
+312,Content Discovery Issues,0
+312,Listening Related Issues,0
+312,Content Quality Issues,0
+312,Support & Service Issues,0
+312,Localization Issues,0
+322,Listening Related Issues,1
+322,Ads Related Issues,0
+322,Coins Related Issues,0
+322,Content Discovery Issues,0
+322,Content Quality Issues,0
+322,User Experience Issues,0
+322,Support & Service Issues,0
+322,Localization Issues,0
+324,User Experience Issues,1
+324,Ads Related Issues,0
+324,Coins Related Issues,0
+324,Content Discovery Issues,0
+324,Listening Related Issues,0
+324,Content Quality Issues,0
+324,Support & Service Issues,0
+324,Localization Issues,0
+325,Listening Related Issues,1
+325,Ads Related Issues,0
+325,Coins Related Issues,0
+325,Content Discovery Issues,0
+325,Content Quality Issues,0
+325,User Experience Issues,0
+325,Support & Service Issues,0
+325,Localization Issues,0
+326,User Experience Issues,1
+326,Ads Related Issues,0
+326,Coins Related Issues,0
+326,Content Discovery Issues,0
+326,Listening Related Issues,0
+326,Content Quality Issues,0
+326,Support & Service Issues,0
+326,Localization Issues,0
+327,Listening Related Issues,2
+327,User Experience Issues,1
+327,Ads Related Issues,0
+327,Coins Related Issues,0
+327,Content Discovery Issues,0
+327,Content Quality Issues,0
+327,Support & Service Issues,0
+327,Localization Issues,0
+329,User Experience Issues,2
+329,Ads Related Issues,0
+329,Coins Related Issues,0
+329,Content Discovery Issues,0
+329,Listening Related Issues,0
+329,Content Quality Issues,0
+329,Support & Service Issues,0
+329,Localization Issues,0
+330,Coins Related Issues,1
+330,User Experience Issues,1
+330,Ads Related Issues,0
+330,Content Discovery Issues,0
+330,Listening Related Issues,0
+330,Content Quality Issues,0
+330,Support & Service Issues,0
+330,Localization Issues,0
+331,Listening Related Issues,1
+331,Ads Related Issues,0
+331,Coins Related Issues,0
+331,Content Discovery Issues,0
+331,Content Quality Issues,0
+331,User Experience Issues,0
+331,Support & Service Issues,0
+331,Localization Issues,0
+337,Listening Related Issues,1
+337,Content Quality Issues,1
+337,Ads Related Issues,0
+337,Coins Related Issues,0
+337,Content Discovery Issues,0
+337,User Experience Issues,0
+337,Support & Service Issues,0
+337,Localization Issues,0
+340,Ads Related Issues,1
+340,Coins Related Issues,1
+340,User Experience Issues,1
+340,Support & Service Issues,1
+340,Content Discovery Issues,0
+340,Listening Related Issues,0
+340,Content Quality Issues,0
+340,Localization Issues,0
+341,Coins Related Issues,2
+341,Ads Related Issues,0
+341,Content Discovery Issues,0
+341,Listening Related Issues,0
+341,Content Quality Issues,0
+341,User Experience Issues,0
+341,Support & Service Issues,0
+341,Localization Issues,0
+342,Coins Related Issues,1
+342,Ads Related Issues,0
+342,Content Discovery Issues,0
+342,Listening Related Issues,0
+342,Content Quality Issues,0
+342,User Experience Issues,0
+342,Support & Service Issues,0
+342,Localization Issues,0
+343,Support & Service Issues,1
+343,Ads Related Issues,0
+343,Coins Related Issues,0
+343,Content Discovery Issues,0
+343,Listening Related Issues,0
+343,Content Quality Issues,0
+343,User Experience Issues,0
+343,Localization Issues,0
+344,User Experience Issues,1
+344,Ads Related Issues,0
+344,Coins Related Issues,0
+344,Content Discovery Issues,0
+344,Listening Related Issues,0
+344,Content Quality Issues,0
+344,Support & Service Issues,0
+344,Localization Issues,0
+345,Coins Related Issues,2
+345,Listening Related Issues,1
+345,Ads Related Issues,0
+345,Content Discovery Issues,0
+345,Content Quality Issues,0
+345,User Experience Issues,0
+345,Support & Service Issues,0
+345,Localization Issues,0
+346,Listening Related Issues,1
+346,User Experience Issues,1
+346,Ads Related Issues,0
+346,Coins Related Issues,0
+346,Content Discovery Issues,0
+346,Content Quality Issues,0
+346,Support & Service Issues,0
+346,Localization Issues,0
+347,Listening Related Issues,1
+347,Ads Related Issues,0
+347,Coins Related Issues,0
+347,Content Discovery Issues,0
+347,Content Quality Issues,0
+347,User Experience Issues,0
+347,Support & Service Issues,0
+347,Localization Issues,0
+348,User Experience Issues,1
+348,Ads Related Issues,0
+348,Coins Related Issues,0
+348,Content Discovery Issues,0
+348,Listening Related Issues,0
+348,Content Quality Issues,0
+348,Support & Service Issues,0
+348,Localization Issues,0
+350,Content Discovery Issues,1
+350,Ads Related Issues,0
+350,Coins Related Issues,0
+350,Listening Related Issues,0
+350,Content Quality Issues,0
+350,User Experience Issues,0
+350,Support & Service Issues,0
+350,Localization Issues,0
+352,User Experience Issues,2
+352,Coins Related Issues,1
+352,Ads Related Issues,0
+352,Content Discovery Issues,0
+352,Listening Related Issues,0
+352,Content Quality Issues,0
+352,Support & Service Issues,0
+352,Localization Issues,0
+354,User Experience Issues,1
+354,Coins Related Issues,1
+354,Ads Related Issues,0
+354,Content Discovery Issues,0
+354,Listening Related Issues,0
+354,Content Quality Issues,0
+354,Support & Service Issues,0
+354,Localization Issues,0
+358,Coins Related Issues,1
+358,Ads Related Issues,0
+358,Content Discovery Issues,0
+358,Listening Related Issues,0
+358,Content Quality Issues,0
+358,User Experience Issues,0
+358,Support & Service Issues,0
+358,Localization Issues,0
+359,Coins Related Issues,1
+359,Ads Related Issues,0
+359,Content Discovery Issues,0
+359,Listening Related Issues,0
+359,Content Quality Issues,0
+359,User Experience Issues,0
+359,Support & Service Issues,0
+359,Localization Issues,0
+360,Listening Related Issues,1
+360,Ads Related Issues,0
+360,Coins Related Issues,0
+360,Content Discovery Issues,0
+360,Content Quality Issues,0
+360,User Experience Issues,0
+360,Support & Service Issues,0
+360,Localization Issues,0
+364,Content Discovery Issues,1
+364,Listening Related Issues,2
+364,Ads Related Issues,0
+364,Coins Related Issues,0
+364,Content Quality Issues,0
+364,User Experience Issues,0
+364,Support & Service Issues,0
+364,Localization Issues,0
+365,User Experience Issues,2
+365,Ads Related Issues,0
+365,Coins Related Issues,0
+365,Content Discovery Issues,0
+365,Listening Related Issues,0
+365,Content Quality Issues,0
+365,Support & Service Issues,0
+365,Localization Issues,0
+366,Listening Related Issues,2
+366,Ads Related Issues,0
+366,Coins Related Issues,0
+366,Content Discovery Issues,0
+366,Content Quality Issues,0
+366,User Experience Issues,0
+366,Support & Service Issues,0
+366,Localization Issues,0
+367,Coins Related Issues,1
+367,Ads Related Issues,0
+367,Content Discovery Issues,0
+367,Listening Related Issues,0
+367,Content Quality Issues,0
+367,User Experience Issues,0
+367,Support & Service Issues,0
+367,Localization Issues,0
+369,Coins Related Issues,1
+369,Ads Related Issues,0
+369,Content Discovery Issues,0
+369,Listening Related Issues,0
+369,Content Quality Issues,0
+369,User Experience Issues,0
+369,Support & Service Issues,0
+369,Localization Issues,0
+371,Coins Related Issues,1
+371,Ads Related Issues,0
+371,Content Discovery Issues,0
+371,Listening Related Issues,0
+371,Content Quality Issues,0
+371,User Experience Issues,0
+371,Support & Service Issues,0
+371,Localization Issues,0
+372,Content Discovery Issues,1
+372,User Experience Issues,1
+372,Support & Service Issues,1
+372,Ads Related Issues,0
+372,Coins Related Issues,0
+372,Listening Related Issues,0
+372,Content Quality Issues,0
+372,Localization Issues,0
+373,User Experience Issues,1
+373,Ads Related Issues,0
+373,Coins Related Issues,0
+373,Content Discovery Issues,0
+373,Listening Related Issues,0
+373,Content Quality Issues,0
+373,Support & Service Issues,0
+373,Localization Issues,0
+377,Coins Related Issues,1
+377,Ads Related Issues,0
+377,Content Discovery Issues,0
+377,Listening Related Issues,0
+377,Content Quality Issues,0
+377,User Experience Issues,0
+377,Support & Service Issues,0
+377,Localization Issues,0
+380,Listening Related Issues,1
+380,Ads Related Issues,1
+380,User Experience Issues,1
+380,Coins Related Issues,0
+380,Content Discovery Issues,0
+380,Content Quality Issues,0
+380,Support & Service Issues,0
+380,Localization Issues,0
+381,Coins Related Issues,1
+381,Ads Related Issues,0
+381,Content Discovery Issues,0
+381,Listening Related Issues,0
+381,Content Quality Issues,0
+381,User Experience Issues,0
+381,Support & Service Issues,0
+381,Localization Issues,0
+383,Ads Related Issues,1
+383,Coins Related Issues,2
+383,User Experience Issues,1
+383,Content Discovery Issues,0
+383,Listening Related Issues,0
+383,Content Quality Issues,0
+383,Support & Service Issues,0
+383,Localization Issues,0
+384,Coins Related Issues,3
+384,Ads Related Issues,1
+384,User Experience Issues,1
+384,Content Discovery Issues,0
+384,Listening Related Issues,0
+384,Content Quality Issues,0
+384,Support & Service Issues,0
+384,Localization Issues,0
+386,User Experience Issues,2
+386,Ads Related Issues,0
+386,Coins Related Issues,0
+386,Content Discovery Issues,0
+386,Listening Related Issues,0
+386,Content Quality Issues,0
+386,Support & Service Issues,0
+386,Localization Issues,0
+388,Coins Related Issues,1
+388,Ads Related Issues,0
+388,Content Discovery Issues,0
+388,Listening Related Issues,0
+388,Content Quality Issues,0
+388,User Experience Issues,0
+388,Support & Service Issues,0
+388,Localization Issues,0
+389,Coins Related Issues,3
+389,Support & Service Issues,1
+389,Ads Related Issues,1
+389,User Experience Issues,2
+389,Content Discovery Issues,0
+389,Listening Related Issues,0
+389,Content Quality Issues,0
+389,Localization Issues,0
+390,Coins Related Issues,2
+390,Support & Service Issues,2
+390,Ads Related Issues,0
+390,Content Discovery Issues,0
+390,Listening Related Issues,0
+390,Content Quality Issues,0
+390,User Experience Issues,0
+390,Localization Issues,0
+392,Coins Related Issues,1
+392,Ads Related Issues,0
+392,Content Discovery Issues,0
+392,Listening Related Issues,0
+392,Content Quality Issues,0
+392,User Experience Issues,0
+392,Support & Service Issues,0
+392,Localization Issues,0
+396,Coins Related Issues,1
+396,Ads Related Issues,0
+396,Content Discovery Issues,0
+396,Listening Related Issues,0
+396,Content Quality Issues,0
+396,User Experience Issues,0
+396,Support & Service Issues,0
+396,Localization Issues,0
+397,Coins Related Issues,1
+397,User Experience Issues,1
+397,Support & Service Issues,1
+397,Ads Related Issues,0
+397,Content Discovery Issues,0
+397,Listening Related Issues,0
+397,Content Quality Issues,0
+397,Localization Issues,0
+398,Coins Related Issues,1
+398,Ads Related Issues,0
+398,Content Discovery Issues,0
+398,Listening Related Issues,0
+398,Content Quality Issues,0
+398,User Experience Issues,0
+398,Support & Service Issues,0
+398,Localization Issues,0
+399,Coins Related Issues,1
+399,Localization Issues,1
+399,Ads Related Issues,0
+399,Content Discovery Issues,0
+399,Listening Related Issues,0
+399,Content Quality Issues,0
+399,User Experience Issues,0
+399,Support & Service Issues,0
+400,Coins Related Issues,1
+400,Ads Related Issues,0
+400,Content Discovery Issues,0
+400,Listening Related Issues,0
+400,Content Quality Issues,0
+400,User Experience Issues,0
+400,Support & Service Issues,0
+400,Localization Issues,0
+401,Coins Related Issues,2
+401,Ads Related Issues,0
+401,Content Discovery Issues,0
+401,Listening Related Issues,0
+401,Content Quality Issues,0
+401,User Experience Issues,0
+401,Support & Service Issues,0
+401,Localization Issues,0
+403,Coins Related Issues,1
+403,User Experience Issues,1
+403,Ads Related Issues,0
+403,Content Discovery Issues,0
+403,Listening Related Issues,0
+403,Content Quality Issues,0
+403,Support & Service Issues,0
+403,Localization Issues,0
+406,Coins Related Issues,1
+406,User Experience Issues,1
+406,Listening Related Issues,1
+406,Ads Related Issues,0
+406,Content Discovery Issues,0
+406,Content Quality Issues,0
+406,Support & Service Issues,0
+406,Localization Issues,0
+407,User Experience Issues,1
+407,Ads Related Issues,0
+407,Coins Related Issues,0
+407,Content Discovery Issues,0
+407,Listening Related Issues,0
+407,Content Quality Issues,0
+407,Support & Service Issues,0
+407,Localization Issues,0
+408,User Experience Issues,1
+408,Ads Related Issues,0
+408,Coins Related Issues,0
+408,Content Discovery Issues,0
+408,Listening Related Issues,0
+408,Content Quality Issues,0
+408,Support & Service Issues,0
+408,Localization Issues,0
+409,Coins Related Issues,1
+409,Support & Service Issues,1
+409,Ads Related Issues,0
+409,Content Discovery Issues,0
+409,Listening Related Issues,0
+409,Content Quality Issues,0
+409,User Experience Issues,0
+409,Localization Issues,0
+410,User Experience Issues,1
+410,Support & Service Issues,1
+410,Ads Related Issues,0
+410,Coins Related Issues,0
+410,Content Discovery Issues,0
+410,Listening Related Issues,0
+410,Content Quality Issues,0
+410,Localization Issues,0
+411,Content Quality Issues,1
+411,User Experience Issues,1
+411,Ads Related Issues,0
+411,Coins Related Issues,0
+411,Content Discovery Issues,0
+411,Listening Related Issues,0
+411,Support & Service Issues,0
+411,Localization Issues,0
+412,Coins Related Issues,1
+412,User Experience Issues,1
+412,Support & Service Issues,1
+412,Ads Related Issues,0
+412,Content Discovery Issues,0
+412,Listening Related Issues,0
+412,Content Quality Issues,0
+412,Localization Issues,0
+413,Coins Related Issues,2
+413,Ads Related Issues,0
+413,Content Discovery Issues,0
+413,Listening Related Issues,0
+413,Content Quality Issues,0
+413,User Experience Issues,0
+413,Support & Service Issues,0
+413,Localization Issues,0
+414,User Experience Issues,1
+414,Ads Related Issues,0
+414,Coins Related Issues,0
+414,Content Discovery Issues,0
+414,Listening Related Issues,0
+414,Content Quality Issues,0
+414,Support & Service Issues,0
+414,Localization Issues,0
+417,Ads Related Issues,1
+417,Coins Related Issues,0
+417,Content Discovery Issues,0
+417,Listening Related Issues,0
+417,Content Quality Issues,0
+417,User Experience Issues,0
+417,Support & Service Issues,0
+417,Localization Issues,0
+419,User Experience Issues,1
+419,Support & Service Issues,1
+419,Ads Related Issues,0
+419,Coins Related Issues,0
+419,Content Discovery Issues,0
+419,Listening Related Issues,0
+419,Content Quality Issues,0
+419,Localization Issues,0
+420,User Experience Issues,1
+420,Ads Related Issues,0
+420,Coins Related Issues,0
+420,Content Discovery Issues,0
+420,Listening Related Issues,0
+420,Content Quality Issues,0
+420,Support & Service Issues,0
+420,Localization Issues,0
+421,Listening Related Issues,1
+421,Ads Related Issues,0
+421,Coins Related Issues,0
+421,Content Discovery Issues,0
+421,Content Quality Issues,0
+421,User Experience Issues,0
+421,Support & Service Issues,0
+421,Localization Issues,0
+426,Coins Related Issues,1
+426,User Experience Issues,1
+426,Ads Related Issues,0
+426,Content Discovery Issues,0
+426,Listening Related Issues,0
+426,Content Quality Issues,0
+426,Support & Service Issues,0
+426,Localization Issues,0
+427,Support & Service Issues,1
+427,Ads Related Issues,0
+427,Coins Related Issues,0
+427,Content Discovery Issues,0
+427,Listening Related Issues,0
+427,Content Quality Issues,0
+427,User Experience Issues,0
+427,Localization Issues,0
+428,User Experience Issues,1
+428,Ads Related Issues,1
+428,Coins Related Issues,1
+428,Content Discovery Issues,0
+428,Listening Related Issues,0
+428,Content Quality Issues,0
+428,Support & Service Issues,0
+428,Localization Issues,0
+429,User Experience Issues,1
+429,Ads Related Issues,0
+429,Coins Related Issues,0
+429,Content Discovery Issues,0
+429,Listening Related Issues,0
+429,Content Quality Issues,0
+429,Support & Service Issues,0
+429,Localization Issues,0
+431,Coins Related Issues,2
+431,Ads Related Issues,0
+431,Content Discovery Issues,0
+431,Listening Related Issues,0
+431,Content Quality Issues,0
+431,User Experience Issues,0
+431,Support & Service Issues,0
+431,Localization Issues,0
+432,Coins Related Issues,1
+432,Ads Related Issues,0
+432,Content Discovery Issues,0
+432,Listening Related Issues,0
+432,Content Quality Issues,0
+432,User Experience Issues,0
+432,Support & Service Issues,0
+432,Localization Issues,0
+436,Coins Related Issues,1
+436,Listening Related Issues,1
+436,Ads Related Issues,0
+436,Content Discovery Issues,0
+436,Content Quality Issues,0
+436,User Experience Issues,0
+436,Support & Service Issues,0
+436,Localization Issues,0
+437,Localization Issues,1
+437,User Experience Issues,1
+437,Support & Service Issues,1
+437,Ads Related Issues,0
+437,Coins Related Issues,0
+437,Content Discovery Issues,0
+437,Listening Related Issues,0
+437,Content Quality Issues,0
+438,Listening Related Issues,1
+438,Ads Related Issues,0
+438,Coins Related Issues,0
+438,Content Discovery Issues,0
+438,Content Quality Issues,0
+438,User Experience Issues,0
+438,Support & Service Issues,0
+438,Localization Issues,0
+439,Listening Related Issues,1
+439,Ads Related Issues,0
+439,Coins Related Issues,0
+439,Content Discovery Issues,0
+439,Content Quality Issues,0
+439,User Experience Issues,0
+439,Support & Service Issues,0
+439,Localization Issues,0
+440,Listening Related Issues,1
+440,Ads Related Issues,0
+440,Coins Related Issues,0
+440,Content Discovery Issues,0
+440,Content Quality Issues,0
+440,User Experience Issues,0
+440,Support & Service Issues,0
+440,Localization Issues,0
+447,Coins Related Issues,1
+447,Ads Related Issues,0
+447,Content Discovery Issues,0
+447,Listening Related Issues,0
+447,Content Quality Issues,0
+447,User Experience Issues,0
+447,Support & Service Issues,0
+447,Localization Issues,0
+451,User Experience Issues,1
+451,Ads Related Issues,0
+451,Coins Related Issues,0
+451,Content Discovery Issues,0
+451,Listening Related Issues,0
+451,Content Quality Issues,0
+451,Support & Service Issues,0
+451,Localization Issues,0
+453,Coins Related Issues,2
+453,Support & Service Issues,2
+453,Ads Related Issues,0
+453,Content Discovery Issues,0
+453,Listening Related Issues,0
+453,Content Quality Issues,0
+453,User Experience Issues,0
+453,Localization Issues,0
+456,Localization Issues,1
+456,Ads Related Issues,0
+456,Coins Related Issues,0
+456,Content Discovery Issues,0
+456,Listening Related Issues,0
+456,Content Quality Issues,0
+456,User Experience Issues,0
+456,Support & Service Issues,0
+458,Listening Related Issues,1
+458,User Experience Issues,1
+458,Ads Related Issues,0
+458,Coins Related Issues,0
+458,Content Discovery Issues,0
+458,Content Quality Issues,0
+458,Support & Service Issues,0
+458,Localization Issues,0
+461,Listening Related Issues,1
+461,Ads Related Issues,0
+461,Coins Related Issues,0
+461,Content Discovery Issues,0
+461,Content Quality Issues,0
+461,User Experience Issues,0
+461,Support & Service Issues,0
+461,Localization Issues,0
+462,Listening Related Issues,2
+462,Support & Service Issues,1
+462,Ads Related Issues,0
+462,Coins Related Issues,0
+462,Content Discovery Issues,0
+462,Content Quality Issues,0
+462,User Experience Issues,0
+462,Localization Issues,0
+464,Coins Related Issues,1
+464,Ads Related Issues,0
+464,Content Discovery Issues,0
+464,Listening Related Issues,0
+464,Content Quality Issues,0
+464,User Experience Issues,0
+464,Support & Service Issues,0
+464,Localization Issues,0
+466,Coins Related Issues,3
+466,Content Discovery Issues,1
+466,Ads Related Issues,0
+466,Listening Related Issues,0
+466,Content Quality Issues,0
+466,User Experience Issues,0
+466,Support & Service Issues,0
+466,Localization Issues,0
+467,Listening Related Issues,2
+467,User Experience Issues,1
+467,Support & Service Issues,1
+467,Ads Related Issues,0
+467,Coins Related Issues,0
+467,Content Discovery Issues,0
+467,Content Quality Issues,0
+467,Localization Issues,0
+469,Coins Related Issues,1
+469,Ads Related Issues,0
+469,Content Discovery Issues,0
+469,Listening Related Issues,0
+469,Content Quality Issues,0
+469,User Experience Issues,0
+469,Support & Service Issues,0
+469,Localization Issues,0
+470,Ads Related Issues,2
+470,Coins Related Issues,1
+470,User Experience Issues,1
+470,Content Discovery Issues,0
+470,Listening Related Issues,0
+470,Content Quality Issues,0
+470,Support & Service Issues,0
+470,Localization Issues,0
+471,Support & Service Issues,1
+471,Ads Related Issues,0
+471,Coins Related Issues,0
+471,Content Discovery Issues,0
+471,Listening Related Issues,0
+471,Content Quality Issues,0
+471,User Experience Issues,0
+471,Localization Issues,0
+476,Coins Related Issues,1
+476,Listening Related Issues,1
+476,User Experience Issues,1
+476,Ads Related Issues,0
+476,Content Discovery Issues,0
+476,Content Quality Issues,0
+476,Support & Service Issues,0
+476,Localization Issues,0
+477,Coins Related Issues,1
+477,Listening Related Issues,2
+477,User Experience Issues,1
+477,Ads Related Issues,0
+477,Content Discovery Issues,0
+477,Content Quality Issues,0
+477,Support & Service Issues,0
+477,Localization Issues,0
+479,Coins Related Issues,1
+479,Ads Related Issues,0
+479,Content Discovery Issues,0
+479,Listening Related Issues,0
+479,Content Quality Issues,0
+479,User Experience Issues,0
+479,Support & Service Issues,0
+479,Localization Issues,0
+484,User Experience Issues,1
+484,Ads Related Issues,0
+484,Coins Related Issues,0
+484,Content Discovery Issues,0
+484,Listening Related Issues,0
+484,Content Quality Issues,0
+484,Support & Service Issues,0
+484,Localization Issues,0
+485,Ads Related Issues,2
+485,Listening Related Issues,1
+485,User Experience Issues,1
+485,Coins Related Issues,0
+485,Content Discovery Issues,0
+485,Content Quality Issues,0
+485,Support & Service Issues,0
+485,Localization Issues,0
+486,Ads Related Issues,1
+486,Coins Related Issues,0
+486,Content Discovery Issues,0
+486,Listening Related Issues,0
+486,Content Quality Issues,0
+486,User Experience Issues,0
+486,Support & Service Issues,0
+486,Localization Issues,0
+489,Listening Related Issues,1
+489,Ads Related Issues,0
+489,Coins Related Issues,0
+489,Content Discovery Issues,0
+489,Content Quality Issues,0
+489,User Experience Issues,0
+489,Support & Service Issues,0
+489,Localization Issues,0
+492,Coins Related Issues,1
+492,Ads Related Issues,0
+492,Content Discovery Issues,0
+492,Listening Related Issues,0
+492,Content Quality Issues,0
+492,User Experience Issues,0
+492,Support & Service Issues,0
+492,Localization Issues,0
+493,Coins Related Issues,1
+493,Ads Related Issues,0
+493,Content Discovery Issues,0
+493,Listening Related Issues,0
+493,Content Quality Issues,0
+493,User Experience Issues,0
+493,Support & Service Issues,0
+493,Localization Issues,0
+494,Coins Related Issues,1
+494,Ads Related Issues,0
+494,Content Discovery Issues,0
+494,Listening Related Issues,0
+494,Content Quality Issues,0
+494,User Experience Issues,0
+494,Support & Service Issues,0
+494,Localization Issues,0
+495,Listening Related Issues,1
+495,Ads Related Issues,0
+495,Coins Related Issues,0
+495,Content Discovery Issues,0
+495,Content Quality Issues,0
+495,User Experience Issues,0
+495,Support & Service Issues,0
+495,Localization Issues,0
+496,Listening Related Issues,2
+496,Coins Related Issues,1
+496,Content Quality Issues,1
+496,Localization Issues,1
+496,Ads Related Issues,0
+496,Content Discovery Issues,0
+496,User Experience Issues,0
+496,Support & Service Issues,0
+497,Coins Related Issues,1
+497,Ads Related Issues,0
+497,Content Discovery Issues,0
+497,Listening Related Issues,0
+497,Content Quality Issues,0
+497,User Experience Issues,0
+497,Support & Service Issues,0
+497,Localization Issues,0
+498,Coins Related Issues,1
+498,Listening Related Issues,1
+498,Ads Related Issues,0
+498,Content Discovery Issues,0
+498,Content Quality Issues,0
+498,User Experience Issues,0
+498,Support & Service Issues,0
+498,Localization Issues,0
+499,Coins Related Issues,1
+499,Ads Related Issues,0
+499,Content Discovery Issues,0
+499,Listening Related Issues,0
+499,Content Quality Issues,0
+499,User Experience Issues,0
+499,Support & Service Issues,0
+499,Localization Issues,0
+501,Coins Related Issues,1
+501,Ads Related Issues,0
+501,Content Discovery Issues,0
+501,Listening Related Issues,0
+501,Content Quality Issues,0
+501,User Experience Issues,0
+501,Support & Service Issues,0
+501,Localization Issues,0
+502,Coins Related Issues,1
+502,Ads Related Issues,0
+502,Content Discovery Issues,0
+502,Listening Related Issues,0
+502,Content Quality Issues,0
+502,User Experience Issues,0
+502,Support & Service Issues,0
+502,Localization Issues,0
+503,Ads Related Issues,1
+503,Coins Related Issues,0
+503,Content Discovery Issues,0
+503,Listening Related Issues,0
+503,Content Quality Issues,0
+503,User Experience Issues,0
+503,Support & Service Issues,0
+503,Localization Issues,0
+504,User Experience Issues,1
+504,Ads Related Issues,0
+504,Coins Related Issues,0
+504,Content Discovery Issues,0
+504,Listening Related Issues,0
+504,Content Quality Issues,0
+504,Support & Service Issues,0
+504,Localization Issues,0
+506,Coins Related Issues,2
+506,Content Quality Issues,1
+506,Ads Related Issues,0
+506,Content Discovery Issues,0
+506,Listening Related Issues,0
+506,User Experience Issues,0
+506,Support & Service Issues,0
+506,Localization Issues,0
+507,Content Discovery Issues,1
+507,Support & Service Issues,1
+507,Ads Related Issues,0
+507,Coins Related Issues,0
+507,Listening Related Issues,0
+507,Content Quality Issues,0
+507,User Experience Issues,0
+507,Localization Issues,0
+508,Ads Related Issues,1
+508,Coins Related Issues,2
+508,Content Discovery Issues,0
+508,Listening Related Issues,0
+508,Content Quality Issues,0
+508,User Experience Issues,0
+508,Support & Service Issues,0
+508,Localization Issues,0
+509,Content Quality Issues,1
+509,Ads Related Issues,0
+509,Coins Related Issues,0
+509,Content Discovery Issues,0
+509,Listening Related Issues,0
+509,User Experience Issues,0
+509,Support & Service Issues,0
+509,Localization Issues,0
+510,Support & Service Issues,1
+510,Ads Related Issues,0
+510,Coins Related Issues,0
+510,Content Discovery Issues,0
+510,Listening Related Issues,0
+510,Content Quality Issues,0
+510,User Experience Issues,0
+510,Localization Issues,0
+511,Coins Related Issues,2
+511,Listening Related Issues,2
+511,Content Quality Issues,1
+511,Ads Related Issues,0
+511,Content Discovery Issues,0
+511,User Experience Issues,0
+511,Support & Service Issues,0
+511,Localization Issues,0
+512,User Experience Issues,1
+512,Ads Related Issues,0
+512,Coins Related Issues,0
+512,Content Discovery Issues,0
+512,Listening Related Issues,0
+512,Content Quality Issues,0
+512,Support & Service Issues,0
+512,Localization Issues,0
+513,Coins Related Issues,1
+513,User Experience Issues,1
+513,Ads Related Issues,0
+513,Content Discovery Issues,0
+513,Listening Related Issues,0
+513,Content Quality Issues,0
+513,Support & Service Issues,0
+513,Localization Issues,0
+515,User Experience Issues,1
+515,Ads Related Issues,0
+515,Coins Related Issues,0
+515,Content Discovery Issues,0
+515,Listening Related Issues,0
+515,Content Quality Issues,0
+515,Support & Service Issues,0
+515,Localization Issues,0
+516,Coins Related Issues,1
+516,Localization Issues,1
+516,Ads Related Issues,0
+516,Content Discovery Issues,0
+516,Listening Related Issues,0
+516,Content Quality Issues,0
+516,User Experience Issues,0
+516,Support & Service Issues,0
+520,Content Quality Issues,1
+520,Localization Issues,1
+520,Ads Related Issues,0
+520,Coins Related Issues,0
+520,Content Discovery Issues,0
+520,Listening Related Issues,0
+520,User Experience Issues,0
+520,Support & Service Issues,0
+521,Ads Related Issues,1
+521,Coins Related Issues,1
+521,Content Discovery Issues,0
+521,Listening Related Issues,0
+521,Content Quality Issues,0
+521,User Experience Issues,0
+521,Support & Service Issues,0
+521,Localization Issues,0
+522,Ads Related Issues,1
+522,Coins Related Issues,2
+522,Content Discovery Issues,0
+522,Listening Related Issues,0
+522,Content Quality Issues,0
+522,User Experience Issues,0
+522,Support & Service Issues,0
+522,Localization Issues,0
+524,Listening Related Issues,1
+524,User Experience Issues,1
+524,Ads Related Issues,0
+524,Coins Related Issues,0
+524,Content Discovery Issues,0
+524,Content Quality Issues,0
+524,Support & Service Issues,0
+524,Localization Issues,0
+526,Listening Related Issues,2
+526,User Experience Issues,1
+526,Ads Related Issues,0
+526,Coins Related Issues,0
+526,Content Discovery Issues,0
+526,Content Quality Issues,0
+526,Support & Service Issues,0
+526,Localization Issues,0
+527,Coins Related Issues,1
+527,Content Quality Issues,2
+527,User Experience Issues,1
+527,Ads Related Issues,0
+527,Content Discovery Issues,0
+527,Listening Related Issues,0
+527,Support & Service Issues,0
+527,Localization Issues,0
+528,Coins Related Issues,1
+528,Ads Related Issues,0
+528,Content Discovery Issues,0
+528,Listening Related Issues,0
+528,Content Quality Issues,0
+528,User Experience Issues,0
+528,Support & Service Issues,0
+528,Localization Issues,0
+529,Support & Service Issues,1
+529,Ads Related Issues,0
+529,Coins Related Issues,0
+529,Content Discovery Issues,0
+529,Listening Related Issues,0
+529,Content Quality Issues,0
+529,User Experience Issues,0
+529,Localization Issues,0
+531,Coins Related Issues,1
+531,Listening Related Issues,1
+531,User Experience Issues,1
+531,Ads Related Issues,0
+531,Content Discovery Issues,0
+531,Content Quality Issues,0
+531,Support & Service Issues,0
+531,Localization Issues,0
+532,Coins Related Issues,2
+532,User Experience Issues,1
+532,Ads Related Issues,0
+532,Content Discovery Issues,0
+532,Listening Related Issues,0
+532,Content Quality Issues,0
+532,Support & Service Issues,0
+532,Localization Issues,0
+534,Listening Related Issues,1
+534,Coins Related Issues,1
+534,Ads Related Issues,0
+534,Content Discovery Issues,0
+534,Content Quality Issues,0
+534,User Experience Issues,0
+534,Support & Service Issues,0
+534,Localization Issues,0
+536,Coins Related Issues,1
+536,Listening Related Issues,1
+536,Support & Service Issues,1
+536,Ads Related Issues,0
+536,Content Discovery Issues,0
+536,Content Quality Issues,0
+536,User Experience Issues,0
+536,Localization Issues,0
+537,User Experience Issues,1
+537,Ads Related Issues,0
+537,Coins Related Issues,0
+537,Content Discovery Issues,0
+537,Listening Related Issues,0
+537,Content Quality Issues,0
+537,Support & Service Issues,0
+537,Localization Issues,0
+538,Coins Related Issues,1
+538,Ads Related Issues,0
+538,Content Discovery Issues,0
+538,Listening Related Issues,0
+538,Content Quality Issues,0
+538,User Experience Issues,0
+538,Support & Service Issues,0
+538,Localization Issues,0
+541,Coins Related Issues,1
+541,User Experience Issues,1
+541,Ads Related Issues,0
+541,Content Discovery Issues,0
+541,Listening Related Issues,0
+541,Content Quality Issues,0
+541,Support & Service Issues,0
+541,Localization Issues,0
+547,Coins Related Issues,1
+547,Ads Related Issues,0
+547,Content Discovery Issues,0
+547,Listening Related Issues,0
+547,Content Quality Issues,0
+547,User Experience Issues,0
+547,Support & Service Issues,0
+547,Localization Issues,0
+548,Coins Related Issues,1
+548,User Experience Issues,2
+548,Listening Related Issues,1
+548,Ads Related Issues,0
+548,Content Discovery Issues,0
+548,Content Quality Issues,0
+548,Support & Service Issues,0
+548,Localization Issues,0
+549,Coins Related Issues,2
+549,Content Discovery Issues,1
+549,Ads Related Issues,0
+549,Listening Related Issues,0
+549,Content Quality Issues,0
+549,User Experience Issues,0
+549,Support & Service Issues,0
+549,Localization Issues,0
+550,Coins Related Issues,1
+550,Localization Issues,1
+550,Ads Related Issues,0
+550,Content Discovery Issues,0
+550,Listening Related Issues,0
+550,Content Quality Issues,0
+550,User Experience Issues,0
+550,Support & Service Issues,0
+551,Ads Related Issues,1
+551,Coins Related Issues,0
+551,Content Discovery Issues,0
+551,Listening Related Issues,0
+551,Content Quality Issues,0
+551,User Experience Issues,0
+551,Support & Service Issues,0
+551,Localization Issues,0
+552,Coins Related Issues,1
+552,Listening Related Issues,1
+552,Ads Related Issues,0
+552,Content Discovery Issues,0
+552,Content Quality Issues,0
+552,User Experience Issues,0
+552,Support & Service Issues,0
+552,Localization Issues,0
+553,Coins Related Issues,1
+553,Listening Related Issues,1
+553,User Experience Issues,3
+553,Support & Service Issues,1
+553,Ads Related Issues,0
+553,Content Discovery Issues,0
+553,Content Quality Issues,0
+553,Localization Issues,0
+554,Support & Service Issues,1
+554,Ads Related Issues,0
+554,Coins Related Issues,0
+554,Content Discovery Issues,0
+554,Listening Related Issues,0
+554,Content Quality Issues,0
+554,User Experience Issues,0
+554,Localization Issues,0
+555,Coins Related Issues,1
+555,Ads Related Issues,0
+555,Content Discovery Issues,0
+555,Listening Related Issues,0
+555,Content Quality Issues,0
+555,User Experience Issues,0
+555,Support & Service Issues,0
+555,Localization Issues,0
+556,Listening Related Issues,2
+556,Coins Related Issues,1
+556,Content Quality Issues,1
+556,Ads Related Issues,0
+556,Content Discovery Issues,0
+556,User Experience Issues,0
+556,Support & Service Issues,0
+556,Localization Issues,0
+557,Coins Related Issues,1
+557,Ads Related Issues,0
+557,Content Discovery Issues,0
+557,Listening Related Issues,0
+557,Content Quality Issues,0
+557,User Experience Issues,0
+557,Support & Service Issues,0
+557,Localization Issues,0
+559,Ads Related Issues,1
+559,User Experience Issues,2
+559,Coins Related Issues,2
+559,Content Discovery Issues,0
+559,Listening Related Issues,0
+559,Content Quality Issues,0
+559,Support & Service Issues,0
+559,Localization Issues,0
+560,User Experience Issues,1
+560,Ads Related Issues,0
+560,Coins Related Issues,0
+560,Content Discovery Issues,0
+560,Listening Related Issues,0
+560,Content Quality Issues,0
+560,Support & Service Issues,0
+560,Localization Issues,0
+561,Coins Related Issues,1
+561,Ads Related Issues,0
+561,Content Discovery Issues,0
+561,Listening Related Issues,0
+561,Content Quality Issues,0
+561,User Experience Issues,0
+561,Support & Service Issues,0
+561,Localization Issues,0
+562,Coins Related Issues,1
+562,Ads Related Issues,0
+562,Content Discovery Issues,0
+562,Listening Related Issues,0
+562,Content Quality Issues,0
+562,User Experience Issues,0
+562,Support & Service Issues,0
+562,Localization Issues,0
+563,Content Discovery Issues,1
+563,User Experience Issues,1
+563,Ads Related Issues,0
+563,Coins Related Issues,0
+563,Listening Related Issues,0
+563,Content Quality Issues,0
+563,Support & Service Issues,0
+563,Localization Issues,0
+565,Coins Related Issues,1
+565,Listening Related Issues,1
+565,Support & Service Issues,1
+565,Ads Related Issues,0
+565,Content Discovery Issues,0
+565,Content Quality Issues,0
+565,User Experience Issues,0
+565,Localization Issues,0
+566,User Experience Issues,1
+566,Ads Related Issues,0
+566,Coins Related Issues,0
+566,Content Discovery Issues,0
+566,Listening Related Issues,0
+566,Content Quality Issues,0
+566,Support & Service Issues,0
+566,Localization Issues,0
+567,Coins Related Issues,1
+567,Ads Related Issues,0
+567,Content Discovery Issues,0
+567,Listening Related Issues,0
+567,Content Quality Issues,0
+567,User Experience Issues,0
+567,Support & Service Issues,0
+567,Localization Issues,0
+568,Coins Related Issues,2
+568,Support & Service Issues,1
+568,Localization Issues,1
+568,Listening Related Issues,1
+568,Ads Related Issues,0
+568,Content Discovery Issues,0
+568,Content Quality Issues,0
+568,User Experience Issues,0
+569,Listening Related Issues,1
+569,Ads Related Issues,0
+569,Coins Related Issues,0
+569,Content Discovery Issues,0
+569,Content Quality Issues,0
+569,User Experience Issues,0
+569,Support & Service Issues,0
+569,Localization Issues,0
+571,Coins Related Issues,2
+571,Listening Related Issues,1
+571,Support & Service Issues,1
+571,Ads Related Issues,0
+571,Content Discovery Issues,0
+571,Content Quality Issues,0
+571,User Experience Issues,0
+571,Localization Issues,0
+572,Localization Issues,1
+572,User Experience Issues,1
+572,Ads Related Issues,0
+572,Coins Related Issues,0
+572,Content Discovery Issues,0
+572,Listening Related Issues,0
+572,Content Quality Issues,0
+572,Support & Service Issues,0
+573,User Experience Issues,1
+573,Ads Related Issues,0
+573,Coins Related Issues,0
+573,Content Discovery Issues,0
+573,Listening Related Issues,0
+573,Content Quality Issues,0
+573,Support & Service Issues,0
+573,Localization Issues,0
+574,Coins Related Issues,1
+574,Ads Related Issues,0
+574,Content Discovery Issues,0
+574,Listening Related Issues,0
+574,Content Quality Issues,0
+574,User Experience Issues,0
+574,Support & Service Issues,0
+574,Localization Issues,0
+576,Listening Related Issues,1
+576,Ads Related Issues,0
+576,Coins Related Issues,0
+576,Content Discovery Issues,0
+576,Content Quality Issues,0
+576,User Experience Issues,0
+576,Support & Service Issues,0
+576,Localization Issues,0
+579,Support & Service Issues,1
+579,Ads Related Issues,0
+579,Coins Related Issues,0
+579,Content Discovery Issues,0
+579,Listening Related Issues,0
+579,Content Quality Issues,0
+579,User Experience Issues,0
+579,Localization Issues,0
+582,Coins Related Issues,1
+582,Ads Related Issues,0
+582,Content Discovery Issues,0
+582,Listening Related Issues,0
+582,Content Quality Issues,0
+582,User Experience Issues,0
+582,Support & Service Issues,0
+582,Localization Issues,0
+583,Coins Related Issues,3
+583,User Experience Issues,1
+583,Listening Related Issues,1
+583,Ads Related Issues,1
+583,Content Discovery Issues,0
+583,Content Quality Issues,0
+583,Support & Service Issues,0
+583,Localization Issues,0
+584,Ads Related Issues,2
+584,Coins Related Issues,2
+584,User Experience Issues,2
+584,Content Discovery Issues,0
+584,Listening Related Issues,0
+584,Content Quality Issues,0
+584,Support & Service Issues,0
+584,Localization Issues,0
+586,Listening Related Issues,1
+586,Ads Related Issues,0
+586,Coins Related Issues,0
+586,Content Discovery Issues,0
+586,Content Quality Issues,0
+586,User Experience Issues,0
+586,Support & Service Issues,0
+586,Localization Issues,0
+587,Coins Related Issues,1
+587,Ads Related Issues,0
+587,Content Discovery Issues,0
+587,Listening Related Issues,0
+587,Content Quality Issues,0
+587,User Experience Issues,0
+587,Support & Service Issues,0
+587,Localization Issues,0
+589,Coins Related Issues,3
+589,Ads Related Issues,0
+589,Content Discovery Issues,0
+589,Listening Related Issues,0
+589,Content Quality Issues,0
+589,User Experience Issues,0
+589,Support & Service Issues,0
+589,Localization Issues,0
+590,Support & Service Issues,1
+590,Ads Related Issues,0
+590,Coins Related Issues,0
+590,Content Discovery Issues,0
+590,Listening Related Issues,0
+590,Content Quality Issues,0
+590,User Experience Issues,0
+590,Localization Issues,0
+591,Coins Related Issues,1
+591,Ads Related Issues,0
+591,Content Discovery Issues,0
+591,Listening Related Issues,0
+591,Content Quality Issues,0
+591,User Experience Issues,0
+591,Support & Service Issues,0
+591,Localization Issues,0
+593,Coins Related Issues,1
+593,User Experience Issues,1
+593,Ads Related Issues,0
+593,Content Discovery Issues,0
+593,Listening Related Issues,0
+593,Content Quality Issues,0
+593,Support & Service Issues,0
+593,Localization Issues,0
+594,User Experience Issues,1
+594,Ads Related Issues,0
+594,Coins Related Issues,0
+594,Content Discovery Issues,0
+594,Listening Related Issues,0
+594,Content Quality Issues,0
+594,Support & Service Issues,0
+594,Localization Issues,0
+595,User Experience Issues,1
+595,Support & Service Issues,1
+595,Ads Related Issues,0
+595,Coins Related Issues,0
+595,Content Discovery Issues,0
+595,Listening Related Issues,0
+595,Content Quality Issues,0
+595,Localization Issues,0
+596,Coins Related Issues,1
+596,Ads Related Issues,0
+596,Content Discovery Issues,0
+596,Listening Related Issues,0
+596,Content Quality Issues,0
+596,User Experience Issues,0
+596,Support & Service Issues,0
+596,Localization Issues,0
+597,Coins Related Issues,3
+597,User Experience Issues,1
+597,Ads Related Issues,0
+597,Content Discovery Issues,0
+597,Listening Related Issues,0
+597,Content Quality Issues,0
+597,Support & Service Issues,0
+597,Localization Issues,0
+598,Coins Related Issues,1
+598,Ads Related Issues,0
+598,Content Discovery Issues,0
+598,Listening Related Issues,0
+598,Content Quality Issues,0
+598,User Experience Issues,0
+598,Support & Service Issues,0
+598,Localization Issues,0
+603,Coins Related Issues,3
+603,User Experience Issues,2
+603,Content Quality Issues,1
+603,Ads Related Issues,0
+603,Content Discovery Issues,0
+603,Listening Related Issues,0
+603,Support & Service Issues,0
+603,Localization Issues,0
+604,Coins Related Issues,1
+604,Ads Related Issues,0
+604,Content Discovery Issues,0
+604,Listening Related Issues,0
+604,Content Quality Issues,0
+604,User Experience Issues,0
+604,Support & Service Issues,0
+604,Localization Issues,0
+606,Coins Related Issues,1
+606,Ads Related Issues,0
+606,Content Discovery Issues,0
+606,Listening Related Issues,0
+606,Content Quality Issues,0
+606,User Experience Issues,0
+606,Support & Service Issues,0
+606,Localization Issues,0
+607,Listening Related Issues,1
+607,Content Quality Issues,1
+607,Localization Issues,2
+607,Ads Related Issues,0
+607,Coins Related Issues,0
+607,Content Discovery Issues,0
+607,User Experience Issues,0
+607,Support & Service Issues,0
+608,User Experience Issues,3
+608,Content Quality Issues,1
+608,Ads Related Issues,0
+608,Coins Related Issues,0
+608,Content Discovery Issues,0
+608,Listening Related Issues,0
+608,Support & Service Issues,0
+608,Localization Issues,0
+609,Listening Related Issues,1
+609,Ads Related Issues,0
+609,Coins Related Issues,0
+609,Content Discovery Issues,0
+609,Content Quality Issues,0
+609,User Experience Issues,0
+609,Support & Service Issues,0
+609,Localization Issues,0
+610,Coins Related Issues,1
+610,User Experience Issues,1
+610,Ads Related Issues,0
+610,Content Discovery Issues,0
+610,Listening Related Issues,0
+610,Content Quality Issues,0
+610,Support & Service Issues,0
+610,Localization Issues,0
+612,Coins Related Issues,1
+612,Ads Related Issues,0
+612,Content Discovery Issues,0
+612,Listening Related Issues,0
+612,Content Quality Issues,0
+612,User Experience Issues,0
+612,Support & Service Issues,0
+612,Localization Issues,0
+614,Content Quality Issues,1
+614,Coins Related Issues,1
+614,User Experience Issues,1
+614,Ads Related Issues,0
+614,Content Discovery Issues,0
+614,Listening Related Issues,0
+614,Support & Service Issues,0
+614,Localization Issues,0
+616,Listening Related Issues,1
+616,Ads Related Issues,0
+616,Coins Related Issues,0
+616,Content Discovery Issues,0
+616,Content Quality Issues,0
+616,User Experience Issues,0
+616,Support & Service Issues,0
+616,Localization Issues,0
+618,Coins Related Issues,1
+618,Listening Related Issues,1
+618,Support & Service Issues,1
+618,Ads Related Issues,0
+618,Content Discovery Issues,0
+618,Content Quality Issues,0
+618,User Experience Issues,0
+618,Localization Issues,0
+619,Ads Related Issues,1
+619,Coins Related Issues,0
+619,Content Discovery Issues,0
+619,Listening Related Issues,0
+619,Content Quality Issues,0
+619,User Experience Issues,0
+619,Support & Service Issues,0
+619,Localization Issues,0
+620,Coins Related Issues,1
+620,Ads Related Issues,0
+620,Content Discovery Issues,0
+620,Listening Related Issues,0
+620,Content Quality Issues,0
+620,User Experience Issues,0
+620,Support & Service Issues,0
+620,Localization Issues,0
+621,Listening Related Issues,1
+621,Ads Related Issues,0
+621,Coins Related Issues,0
+621,Content Discovery Issues,0
+621,Content Quality Issues,0
+621,User Experience Issues,0
+621,Support & Service Issues,0
+621,Localization Issues,0
+625,Coins Related Issues,1
+625,Ads Related Issues,0
+625,Content Discovery Issues,0
+625,Listening Related Issues,0
+625,Content Quality Issues,0
+625,User Experience Issues,0
+625,Support & Service Issues,0
+625,Localization Issues,0
+626,Listening Related Issues,2
+626,Content Quality Issues,1
+626,Ads Related Issues,0
+626,Coins Related Issues,0
+626,Content Discovery Issues,0
+626,User Experience Issues,0
+626,Support & Service Issues,0
+626,Localization Issues,0
+627,Listening Related Issues,2
+627,Ads Related Issues,0
+627,Coins Related Issues,0
+627,Content Discovery Issues,0
+627,Content Quality Issues,0
+627,User Experience Issues,0
+627,Support & Service Issues,0
+627,Localization Issues,0
+629,Coins Related Issues,1
+629,Ads Related Issues,0
+629,Content Discovery Issues,0
+629,Listening Related Issues,0
+629,Content Quality Issues,0
+629,User Experience Issues,0
+629,Support & Service Issues,0
+629,Localization Issues,0
+631,Coins Related Issues,1
+631,Ads Related Issues,0
+631,Content Discovery Issues,0
+631,Listening Related Issues,0
+631,Content Quality Issues,0
+631,User Experience Issues,0
+631,Support & Service Issues,0
+631,Localization Issues,0
+632,Coins Related Issues,1
+632,Support & Service Issues,1
+632,Ads Related Issues,0
+632,Content Discovery Issues,0
+632,Listening Related Issues,0
+632,Content Quality Issues,0
+632,User Experience Issues,0
+632,Localization Issues,0
+633,Content Quality Issues,1
+633,Ads Related Issues,0
+633,Coins Related Issues,0
+633,Content Discovery Issues,0
+633,Listening Related Issues,0
+633,User Experience Issues,0
+633,Support & Service Issues,0
+633,Localization Issues,0
+634,Support & Service Issues,1
+634,Localization Issues,2
+634,Ads Related Issues,0
+634,Coins Related Issues,0
+634,Content Discovery Issues,0
+634,Listening Related Issues,0
+634,Content Quality Issues,0
+634,User Experience Issues,0
+637,Coins Related Issues,1
+637,Ads Related Issues,0
+637,Content Discovery Issues,0
+637,Listening Related Issues,0
+637,Content Quality Issues,0
+637,User Experience Issues,0
+637,Support & Service Issues,0
+637,Localization Issues,0
+639,Support & Service Issues,1
+639,Ads Related Issues,0
+639,Coins Related Issues,0
+639,Content Discovery Issues,0
+639,Listening Related Issues,0
+639,Content Quality Issues,0
+639,User Experience Issues,0
+639,Localization Issues,0
+640,Listening Related Issues,1
+640,Ads Related Issues,0
+640,Coins Related Issues,0
+640,Content Discovery Issues,0
+640,Content Quality Issues,0
+640,User Experience Issues,0
+640,Support & Service Issues,0
+640,Localization Issues,0
+641,Coins Related Issues,1
+641,User Experience Issues,1
+641,Listening Related Issues,1
+641,Ads Related Issues,0
+641,Content Discovery Issues,0
+641,Content Quality Issues,0
+641,Support & Service Issues,0
+641,Localization Issues,0
+642,Coins Related Issues,2
+642,User Experience Issues,2
+642,Ads Related Issues,0
+642,Content Discovery Issues,0
+642,Listening Related Issues,0
+642,Content Quality Issues,0
+642,Support & Service Issues,0
+642,Localization Issues,0
+646,Coins Related Issues,1
+646,Ads Related Issues,0
+646,Content Discovery Issues,0
+646,Listening Related Issues,0
+646,Content Quality Issues,0
+646,User Experience Issues,0
+646,Support & Service Issues,0
+646,Localization Issues,0
+649,Coins Related Issues,2
+649,User Experience Issues,1
+649,Ads Related Issues,0
+649,Content Discovery Issues,0
+649,Listening Related Issues,0
+649,Content Quality Issues,0
+649,Support & Service Issues,0
+649,Localization Issues,0
+650,Coins Related Issues,2
+650,Listening Related Issues,2
+650,Ads Related Issues,0
+650,Content Discovery Issues,0
+650,Content Quality Issues,0
+650,User Experience Issues,0
+650,Support & Service Issues,0
+650,Localization Issues,0
+653,Listening Related Issues,1
+653,Ads Related Issues,0
+653,Coins Related Issues,0
+653,Content Discovery Issues,0
+653,Content Quality Issues,0
+653,User Experience Issues,0
+653,Support & Service Issues,0
+653,Localization Issues,0
+655,Support & Service Issues,1
+655,Ads Related Issues,0
+655,Coins Related Issues,0
+655,Content Discovery Issues,0
+655,Listening Related Issues,0
+655,Content Quality Issues,0
+655,User Experience Issues,0
+655,Localization Issues,0
+657,Coins Related Issues,3
+657,Ads Related Issues,0
+657,Content Discovery Issues,0
+657,Listening Related Issues,0
+657,Content Quality Issues,0
+657,User Experience Issues,0
+657,Support & Service Issues,0
+657,Localization Issues,0
+661,Coins Related Issues,1
+661,Ads Related Issues,0
+661,Content Discovery Issues,0
+661,Listening Related Issues,0
+661,Content Quality Issues,0
+661,User Experience Issues,0
+661,Support & Service Issues,0
+661,Localization Issues,0
+663,Coins Related Issues,1
+663,Listening Related Issues,1
+663,Ads Related Issues,0
+663,Content Discovery Issues,0
+663,Content Quality Issues,0
+663,User Experience Issues,0
+663,Support & Service Issues,0
+663,Localization Issues,0
+666,Coins Related Issues,2
+666,Content Discovery Issues,1
+666,Ads Related Issues,0
+666,Listening Related Issues,0
+666,Content Quality Issues,0
+666,User Experience Issues,0
+666,Support & Service Issues,0
+666,Localization Issues,0
+667,Coins Related Issues,1
+667,Ads Related Issues,1
+667,User Experience Issues,2
+667,Content Discovery Issues,0
+667,Listening Related Issues,0
+667,Content Quality Issues,0
+667,Support & Service Issues,0
+667,Localization Issues,0
+668,User Experience Issues,1
+668,Coins Related Issues,1
+668,Ads Related Issues,0
+668,Content Discovery Issues,0
+668,Listening Related Issues,0
+668,Content Quality Issues,0
+668,Support & Service Issues,0
+668,Localization Issues,0
+670,Ads Related Issues,1
+670,User Experience Issues,2
+670,Listening Related Issues,1
+670,Coins Related Issues,0
+670,Content Discovery Issues,0
+670,Content Quality Issues,0
+670,Support & Service Issues,0
+670,Localization Issues,0
+672,Listening Related Issues,1
+672,User Experience Issues,1
+672,Support & Service Issues,1
+672,Ads Related Issues,0
+672,Coins Related Issues,0
+672,Content Discovery Issues,0
+672,Content Quality Issues,0
+672,Localization Issues,0
+673,Coins Related Issues,1
+673,Ads Related Issues,0
+673,Content Discovery Issues,0
+673,Listening Related Issues,0
+673,Content Quality Issues,0
+673,User Experience Issues,0
+673,Support & Service Issues,0
+673,Localization Issues,0
+674,Coins Related Issues,2
+674,Ads Related Issues,0
+674,Content Discovery Issues,0
+674,Listening Related Issues,0
+674,Content Quality Issues,0
+674,User Experience Issues,0
+674,Support & Service Issues,0
+674,Localization Issues,0
+677,Ads Related Issues,1
+677,Coins Related Issues,1
+677,Content Discovery Issues,0
+677,Listening Related Issues,0
+677,Content Quality Issues,0
+677,User Experience Issues,0
+677,Support & Service Issues,0
+677,Localization Issues,0
+678,Coins Related Issues,3
+678,Support & Service Issues,2
+678,Listening Related Issues,1
+678,Ads Related Issues,1
+678,Content Discovery Issues,0
+678,Content Quality Issues,0
+678,User Experience Issues,0
+678,Localization Issues,0
+679,Content Quality Issues,1
+679,Localization Issues,1
+679,Ads Related Issues,0
+679,Coins Related Issues,0
+679,Content Discovery Issues,0
+679,Listening Related Issues,0
+679,User Experience Issues,0
+679,Support & Service Issues,0
+680,Coins Related Issues,1
+680,User Experience Issues,2
+680,Ads Related Issues,0
+680,Content Discovery Issues,0
+680,Listening Related Issues,0
+680,Content Quality Issues,0
+680,Support & Service Issues,0
+680,Localization Issues,0
+681,Ads Related Issues,1
+681,User Experience Issues,1
+681,Coins Related Issues,0
+681,Content Discovery Issues,0
+681,Listening Related Issues,0
+681,Content Quality Issues,0
+681,Support & Service Issues,0
+681,Localization Issues,0
+682,Listening Related Issues,1
+682,Ads Related Issues,0
+682,Coins Related Issues,0
+682,Content Discovery Issues,0
+682,Content Quality Issues,0
+682,User Experience Issues,0
+682,Support & Service Issues,0
+682,Localization Issues,0
+684,Coins Related Issues,1
+684,User Experience Issues,1
+684,Ads Related Issues,0
+684,Content Discovery Issues,0
+684,Listening Related Issues,0
+684,Content Quality Issues,0
+684,Support & Service Issues,0
+684,Localization Issues,0
+687,Support & Service Issues,1
+687,Ads Related Issues,0
+687,Coins Related Issues,0
+687,Content Discovery Issues,0
+687,Listening Related Issues,0
+687,Content Quality Issues,0
+687,User Experience Issues,0
+687,Localization Issues,0
+688,Support & Service Issues,1
+688,Ads Related Issues,0
+688,Coins Related Issues,0
+688,Content Discovery Issues,0
+688,Listening Related Issues,0
+688,Content Quality Issues,0
+688,User Experience Issues,0
+688,Localization Issues,0
+690,Coins Related Issues,1
+690,Ads Related Issues,0
+690,Content Discovery Issues,0
+690,Listening Related Issues,0
+690,Content Quality Issues,0
+690,User Experience Issues,0
+690,Support & Service Issues,0
+690,Localization Issues,0
+692,User Experience Issues,1
+692,Ads Related Issues,0
+692,Coins Related Issues,0
+692,Content Discovery Issues,0
+692,Listening Related Issues,0
+692,Content Quality Issues,0
+692,Support & Service Issues,0
+692,Localization Issues,0
+693,Ads Related Issues,1
+693,Coins Related Issues,1
+693,Content Discovery Issues,0
+693,Listening Related Issues,0
+693,Content Quality Issues,0
+693,User Experience Issues,0
+693,Support & Service Issues,0
+693,Localization Issues,0
+694,Coins Related Issues,1
+694,Content Quality Issues,1
+694,Ads Related Issues,0
+694,Content Discovery Issues,0
+694,Listening Related Issues,0
+694,User Experience Issues,0
+694,Support & Service Issues,0
+694,Localization Issues,0
+695,Listening Related Issues,1
+695,Coins Related Issues,1
+695,Ads Related Issues,0
+695,Content Discovery Issues,0
+695,Content Quality Issues,0
+695,User Experience Issues,0
+695,Support & Service Issues,0
+695,Localization Issues,0
+696,Coins Related Issues,1
+696,Ads Related Issues,0
+696,Content Discovery Issues,0
+696,Listening Related Issues,0
+696,Content Quality Issues,0
+696,User Experience Issues,0
+696,Support & Service Issues,0
+696,Localization Issues,0
+701,User Experience Issues,1
+701,Support & Service Issues,1
+701,Coins Related Issues,1
+701,Ads Related Issues,0
+701,Content Discovery Issues,0
+701,Listening Related Issues,0
+701,Content Quality Issues,0
+701,Localization Issues,0
+702,Coins Related Issues,1
+702,Ads Related Issues,0
+702,Content Discovery Issues,0
+702,Listening Related Issues,0
+702,Content Quality Issues,0
+702,User Experience Issues,0
+702,Support & Service Issues,0
+702,Localization Issues,0
+703,Support & Service Issues,1
+703,Ads Related Issues,0
+703,Coins Related Issues,0
+703,Content Discovery Issues,0
+703,Listening Related Issues,0
+703,Content Quality Issues,0
+703,User Experience Issues,0
+703,Localization Issues,0
+704,Coins Related Issues,1
+704,Ads Related Issues,0
+704,Content Discovery Issues,0
+704,Listening Related Issues,0
+704,Content Quality Issues,0
+704,User Experience Issues,0
+704,Support & Service Issues,0
+704,Localization Issues,0
+708,Coins Related Issues,1
+708,Ads Related Issues,0
+708,Content Discovery Issues,0
+708,Listening Related Issues,0
+708,Content Quality Issues,0
+708,User Experience Issues,0
+708,Support & Service Issues,0
+708,Localization Issues,0
+709,Coins Related Issues,3
+709,Ads Related Issues,0
+709,Content Discovery Issues,0
+709,Listening Related Issues,0
+709,Content Quality Issues,0
+709,User Experience Issues,0
+709,Support & Service Issues,0
+709,Localization Issues,0
+710,Coins Related Issues,1
+710,Listening Related Issues,2
+710,User Experience Issues,1
+710,Ads Related Issues,0
+710,Content Discovery Issues,0
+710,Content Quality Issues,0
+710,Support & Service Issues,0
+710,Localization Issues,0
+711,Support & Service Issues,1
+711,Ads Related Issues,0
+711,Coins Related Issues,0
+711,Content Discovery Issues,0
+711,Listening Related Issues,0
+711,Content Quality Issues,0
+711,User Experience Issues,0
+711,Localization Issues,0
+712,User Experience Issues,1
+712,Support & Service Issues,1
+712,Ads Related Issues,0
+712,Coins Related Issues,0
+712,Content Discovery Issues,0
+712,Listening Related Issues,0
+712,Content Quality Issues,0
+712,Localization Issues,0
+713,Coins Related Issues,2
+713,Listening Related Issues,1
+713,Ads Related Issues,0
+713,Content Discovery Issues,0
+713,Content Quality Issues,0
+713,User Experience Issues,0
+713,Support & Service Issues,0
+713,Localization Issues,0
+714,Coins Related Issues,1
+714,Ads Related Issues,0
+714,Content Discovery Issues,0
+714,Listening Related Issues,0
+714,Content Quality Issues,0
+714,User Experience Issues,0
+714,Support & Service Issues,0
+714,Localization Issues,0
+716,Coins Related Issues,2
+716,Ads Related Issues,0
+716,Content Discovery Issues,0
+716,Listening Related Issues,0
+716,Content Quality Issues,0
+716,User Experience Issues,0
+716,Support & Service Issues,0
+716,Localization Issues,0
+718,Ads Related Issues,1
+718,Coins Related Issues,0
+718,Content Discovery Issues,0
+718,Listening Related Issues,0
+718,Content Quality Issues,0
+718,User Experience Issues,0
+718,Support & Service Issues,0
+718,Localization Issues,0
+720,Listening Related Issues,1
+720,User Experience Issues,1
+720,Ads Related Issues,0
+720,Coins Related Issues,0
+720,Content Discovery Issues,0
+720,Content Quality Issues,0
+720,Support & Service Issues,0
+720,Localization Issues,0
+721,Coins Related Issues,1
+721,Support & Service Issues,1
+721,Ads Related Issues,0
+721,Content Discovery Issues,0
+721,Listening Related Issues,0
+721,Content Quality Issues,0
+721,User Experience Issues,0
+721,Localization Issues,0
+722,Listening Related Issues,1
+722,Support & Service Issues,1
+722,User Experience Issues,1
+722,Coins Related Issues,2
+722,Ads Related Issues,0
+722,Content Discovery Issues,0
+722,Content Quality Issues,0
+722,Localization Issues,0
+723,Coins Related Issues,1
+723,Listening Related Issues,1
+723,User Experience Issues,2
+723,Ads Related Issues,1
+723,Content Discovery Issues,0
+723,Content Quality Issues,0
+723,Support & Service Issues,0
+723,Localization Issues,0
+724,Coins Related Issues,1
+724,Listening Related Issues,2
+724,Ads Related Issues,0
+724,Content Discovery Issues,0
+724,Content Quality Issues,0
+724,User Experience Issues,0
+724,Support & Service Issues,0
+724,Localization Issues,0
+728,User Experience Issues,1
+728,Ads Related Issues,0
+728,Coins Related Issues,0
+728,Content Discovery Issues,0
+728,Listening Related Issues,0
+728,Content Quality Issues,0
+728,Support & Service Issues,0
+728,Localization Issues,0
+729,Coins Related Issues,1
+729,Ads Related Issues,0
+729,Content Discovery Issues,0
+729,Listening Related Issues,0
+729,Content Quality Issues,0
+729,User Experience Issues,0
+729,Support & Service Issues,0
+729,Localization Issues,0
