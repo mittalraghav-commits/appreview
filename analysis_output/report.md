@@ -1,35 +1,36 @@
 ## Review Analysis Summary
 
-Total reviews parsed: 1191
+Total reviews parsed: 559
 
 ### Latest Week Top Categories
-- Monetization & Pricing: 149
-- Content & UX: 110
-- Playback & Performance: 47
-- Payments & Support: 23
-- Localization & Availability: 9
+- Monetization & Pricing: 290
+- Content & UX: 233
+- Playback & Performance: 59
+- Payments & Support: 30
+- Localization & Availability: 6
 
 ### Latest Week Top Subcategories
-- Too expensive / high coin cost: 100
-- AI voices / quality: 92
-- Subscription needed / request: 44
-- Ads gating / too many ads: 39
-- Crashes / app not working: 24
-- Offline / download issues: 17
-- Support unresponsive: 16
-- Visual vs audio expectation: 15
-- Too slow unlock / few free episodes: 15
-- Billing / refund / trial issues: 8
-- Misleading ads / bait-and-switch: 7
-- Missing languages / dubbing: 6
+- Too expensive / high coin cost: 221
+- AI voices / quality: 194
+- Subscription needed / request: 89
+- Ads gating / too many ads: 81
+- Too slow unlock / few free episodes: 41
+- Offline / download issues: 34
+- Visual vs audio expectation: 26
+- Support unresponsive: 22
+- Misleading ads / bait-and-switch: 22
+- Crashes / app not working: 17
+- Playback jumps / episode switching: 11
+- Billing / refund / trial issues: 9
 
 ### Emerging vs Long-standing (Categories)
+- Increasing:
+  - Monetization & Pricing: 0.0% -> 51.9% (52%)
+  - Content & UX: 0.0% -> 41.7% (42%)
 - Stable/Mixed:
-  - Localization & Availability: 0.4% -> 2.2% (384%)
-  - Payments & Support: 4.5% -> 5.7% (27%)
-  - Playback & Performance: 15.4% -> 12.7% (-18%)
-  - Monetization & Pricing: 37.9% -> 39.9% (5%)
-  - Content & UX: 31.3% -> 30.7% (-2%)
+  - Playback & Performance: 0.0% -> 10.6% (11%)
+  - Payments & Support: 0.0% -> 5.4% (5%)
+  - Localization & Availability: 0.0% -> 1.1% (1%)
 
 ### Notes
 - Day-by-day trends are computed by chronological buckets due to sparse explicit dates in the export. Weekly aggregation uses consecutive 7-day windows.
