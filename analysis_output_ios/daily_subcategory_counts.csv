@@ -1,0 +1,38 @@
+day_index,theme,subcategory,count
+1.0,Ads related issues,Ads gating / too many ads,16
+1.0,Ads related issues,Misleading ads / bait-and-switch,1
+1.0,Coins related issues,Too expensive / high coin cost,31
+1.0,Coins related issues,Subscription needed / request,21
+1.0,Coins related issues,Too slow unlock / few free episodes,5
+1.0,Content discovery issues,Search/discoverability issues,11
+1.0,Content discovery issues,Poor recommendations/irrelevant suggestions,5
+1.0,Content quality & format,AI voices / quality,41
+1.0,Content quality & format,Visual vs audio expectation,2
+1.0,Listening related issues,Offline / download issues,6
+1.0,Listening related issues,Crashes / app not working,3
+1.0,Listening related issues,Playback jumps / episode switching,3
+1.0,Listening related issues,Buffering / won't load,1
+1.0,Listening related issues,Listening related issues,1
+1.0,Other,Other,47
+1.0,Payments & Support,Support unresponsive,5
+1.0,Payments & Support,Unauthorized charge / auto pay,1
+2.0,Ads related issues,Ads gating / too many ads,31
+2.0,Ads related issues,Misleading ads / bait-and-switch,8
+2.0,Ads related issues,Story mismatch vs ads,2
+2.0,Coins related issues,Too expensive / high coin cost,85
+2.0,Coins related issues,Subscription needed / request,31
+2.0,Coins related issues,Too slow unlock / few free episodes,17
+2.0,Content discovery issues,Poor recommendations/irrelevant suggestions,10
+2.0,Content discovery issues,Search/discoverability issues,10
+2.0,Content discovery issues,Auto-starts other series,1
+2.0,Content discovery issues,Content discovery friction,1
+2.0,Content quality & format,AI voices / quality,71
+2.0,Content quality & format,Visual vs audio expectation,13
+2.0,Listening related issues,Offline / download issues,15
+2.0,Listening related issues,Crashes / app not working,5
+2.0,Listening related issues,Playback jumps / episode switching,3
+2.0,Localization & Availability,Missing languages / dubbing,1
+2.0,Other,Other,44
+2.0,Payments & Support,Support unresponsive,5
+2.0,Payments & Support,Billing / refund / trial issues,4
+2.0,Payments & Support,Payments & Support,2
