@@ -1,0 +1,8 @@
+Theme,Count,Percentage,Priority,Business_Impact
+Coins related issues,478,34.7%,P0 - CRITICAL,HIGH
+Content quality & format,349,25.3%,P1 - HIGH,MEDIUM
+Ads related issues,199,14.4%,P2 - MEDIUM,LOW
+Listening related issues,189,13.7%,P2 - MEDIUM,LOW
+Payments & Support,89,6.5%,P2 - MEDIUM,LOW
+Content discovery issues,62,4.5%,P3 - LOW,MINIMAL
+Localization & Availability,13,0.9%,P3 - LOW,MINIMAL
