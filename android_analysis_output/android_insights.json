@@ -1,0 +1,1758 @@
+{
+  "total_reviews": 1125,
+  "avg_daily_reviews": 1.709726443768997,
+  "category_summary": {
+    "Ads Related Issues": {
+      "total_count": 50,
+      "percentage": 4.444444444444445,
+      "subcategories": {
+        "Too many ads / ads gating": {
+          "count": 36,
+          "percentage_of_category": 72.0
+        },
+        "Misleading ads / bait-and-switch": {
+          "count": 6,
+          "percentage_of_category": 12.0
+        },
+        "Ad quality / inappropriate ads": {
+          "count": 3,
+          "percentage_of_category": 6.0
+        },
+        "Forced ad watching": {
+          "count": 5,
+          "percentage_of_category": 10.0
+        }
+      }
+    },
+    "Coins Related Issues": {
+      "total_count": 322,
+      "percentage": 28.62222222222222,
+      "subcategories": {
+        "Too expensive / high coin cost": {
+          "count": 183,
+          "percentage_of_category": 56.83229813664597
+        },
+        "Subscription needed / pricing model": {
+          "count": 122,
+          "percentage_of_category": 37.88819875776397
+        },
+        "Too slow unlock / few free episodes": {
+          "count": 4,
+          "percentage_of_category": 1.2422360248447204
+        },
+        "Coin system confusing": {
+          "count": 5,
+          "percentage_of_category": 1.5527950310559007
+        },
+        "Unauthorized charges / billing issues": {
+          "count": 8,
+          "percentage_of_category": 2.484472049689441
+        }
+      }
+    },
+    "Content Discovery Issues": {
+      "total_count": 10,
+      "percentage": 0.8888888888888888,
+      "subcategories": {
+        "Search / discoverability problems": {
+          "count": 2,
+          "percentage_of_category": 20.0
+        },
+        "Auto-starts other series": {
+          "count": 2,
+          "percentage_of_category": 20.0
+        },
+        "Lack of new content": {
+          "count": 3,
+          "percentage_of_category": 30.0
+        },
+        "Content organization / categories": {
+          "count": 3,
+          "percentage_of_category": 30.0
+        }
+      }
+    },
+    "Listening Related Issues": {
+      "total_count": 163,
+      "percentage": 14.48888888888889,
+      "subcategories": {
+        "Crashes / app not working": {
+          "count": 45,
+          "percentage_of_category": 27.607361963190186
+        },
+        "Offline / download issues": {
+          "count": 64,
+          "percentage_of_category": 39.263803680981596
+        },
+        "Buffering / won't load": {
+          "count": 30,
+          "percentage_of_category": 18.404907975460123
+        },
+        "Playback jumps / episode switching": {
+          "count": 2,
+          "percentage_of_category": 1.2269938650306749
+        },
+        "Audio quality / sync issues": {
+          "count": 4,
+          "percentage_of_category": 2.4539877300613497
+        },
+        "Notifications / interruptions": {
+          "count": 18,
+          "percentage_of_category": 11.042944785276074
+        }
+      }
+    },
+    "Content Quality Issues": {
+      "total_count": 39,
+      "percentage": 3.4666666666666663,
+      "subcategories": {
+        "AI voices / poor narration quality": {
+          "count": 16,
+          "percentage_of_category": 41.02564102564102
+        },
+        "Visual vs audio expectation mismatch": {
+          "count": 8,
+          "percentage_of_category": 20.51282051282051
+        },
+        "Story quality / content issues": {
+          "count": 2,
+          "percentage_of_category": 5.128205128205128
+        },
+        "Translation / language issues": {
+          "count": 11,
+          "percentage_of_category": 28.205128205128204
+        },
+        "Missing visual content": {
+          "count": 2,
+          "percentage_of_category": 5.128205128205128
+        }
+      }
+    },
+    "User Experience Issues": {
+      "total_count": 185,
+      "percentage": 16.444444444444446,
+      "subcategories": {
+        "Interface / navigation problems": {
+          "count": 66,
+          "percentage_of_category": 35.67567567567568
+        },
+        "Login / account issues": {
+          "count": 27,
+          "percentage_of_category": 14.594594594594595
+        },
+        "Settings / customization problems": {
+          "count": 8,
+          "percentage_of_category": 4.324324324324325
+        },
+        "App performance / speed": {
+          "count": 40,
+          "percentage_of_category": 21.62162162162162
+        },
+        "Update / compatibility issues": {
+          "count": 44,
+          "percentage_of_category": 23.783783783783786
+        }
+      }
+    },
+    "Support & Service Issues": {
+      "total_count": 75,
+      "percentage": 6.666666666666667,
+      "subcategories": {
+        "Support unresponsive": {
+          "count": 54,
+          "percentage_of_category": 72.0
+        },
+        "Refund / billing disputes": {
+          "count": 12,
+          "percentage_of_category": 16.0
+        },
+        "Communication / transparency": {
+          "count": 9,
+          "percentage_of_category": 12.0
+        }
+      }
+    },
+    "Localization Issues": {
+      "total_count": 18,
+      "percentage": 1.6,
+      "subcategories": {
+        "Missing languages / dubbing": {
+          "count": 9,
+          "percentage_of_category": 50.0
+        },
+        "Regional content availability": {
+          "count": 8,
+          "percentage_of_category": 44.44444444444444
+        },
+        "Time zone / scheduling problems": {
+          "count": 1,
+          "percentage_of_category": 5.555555555555555
+        }
+      }
+    }
+  },
+  "top_issues": [
+    {
+      "main_category": "Coins Related Issues",
+      "subcategory": "Too expensive / high coin cost",
+      "count": 183
+    },
+    {
+      "main_category": "Coins Related Issues",
+      "subcategory": "Subscription needed / pricing model",
+      "count": 122
+    },
+    {
+      "main_category": "User Experience Issues",
+      "subcategory": "Interface / navigation problems",
+      "count": 66
+    },
+    {
+      "main_category": "Listening Related Issues",
+      "subcategory": "Offline / download issues",
+      "count": 64
+    },
+    {
+      "main_category": "Support & Service Issues",
+      "subcategory": "Support unresponsive",
+      "count": 54
+    },
+    {
+      "main_category": "Listening Related Issues",
+      "subcategory": "Crashes / app not working",
+      "count": 45
+    },
+    {
+      "main_category": "User Experience Issues",
+      "subcategory": "Update / compatibility issues",
+      "count": 44
+    },
+    {
+      "main_category": "User Experience Issues",
+      "subcategory": "App performance / speed",
+      "count": 40
+    },
+    {
+      "main_category": "Ads Related Issues",
+      "subcategory": "Too many ads / ads gating",
+      "count": 36
+    },
+    {
+      "main_category": "Listening Related Issues",
+      "subcategory": "Buffering / won't load",
+      "count": 30
+    }
+  ],
+  "trending_up": [],
+  "trending_down": [],
+  "anomalies": [
+    {
+      "day": 1,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 5,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 8,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 9,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 28,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 30,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 77,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 82,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 116,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 122,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 128,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 130,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 171,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 181,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 182,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 201,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 205,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 233,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 304,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 307,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 340,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 380,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 383,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 384,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 389,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 417,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 428,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 470,
+      "category": "Ads Related Issues",
+      "count": 2,
+      "average": 0.11574074074074074,
+      "z_score": 5.526810919982089,
+      "increase_pct": 1628.0
+    },
+    {
+      "day": 485,
+      "category": "Ads Related Issues",
+      "count": 2,
+      "average": 0.11574074074074074,
+      "z_score": 5.526810919982089,
+      "increase_pct": 1628.0
+    },
+    {
+      "day": 486,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 503,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 508,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 521,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 522,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 551,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 559,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 583,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 584,
+      "category": "Ads Related Issues",
+      "count": 2,
+      "average": 0.11574074074074074,
+      "z_score": 5.526810919982089,
+      "increase_pct": 1628.0
+    },
+    {
+      "day": 619,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 667,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 670,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 677,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 678,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 681,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 693,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 718,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 723,
+      "category": "Ads Related Issues",
+      "count": 1,
+      "average": 0.11574074074074074,
+      "z_score": 2.5936631098687446,
+      "increase_pct": 764.0
+    },
+    {
+      "day": 8,
+      "category": "Coins Related Issues",
+      "count": 3,
+      "average": 0.7453703703703703,
+      "z_score": 2.841450034378986,
+      "increase_pct": 302.48447204968943
+    },
+    {
+      "day": 52,
+      "category": "Coins Related Issues",
+      "count": 3,
+      "average": 0.7453703703703703,
+      "z_score": 2.841450034378986,
+      "increase_pct": 302.48447204968943
+    },
+    {
+      "day": 126,
+      "category": "Coins Related Issues",
+      "count": 3,
+      "average": 0.7453703703703703,
+      "z_score": 2.841450034378986,
+      "increase_pct": 302.48447204968943
+    },
+    {
+      "day": 287,
+      "category": "Coins Related Issues",
+      "count": 3,
+      "average": 0.7453703703703703,
+      "z_score": 2.841450034378986,
+      "increase_pct": 302.48447204968943
+    },
+    {
+      "day": 290,
+      "category": "Coins Related Issues",
+      "count": 3,
+      "average": 0.7453703703703703,
+      "z_score": 2.841450034378986,
+      "increase_pct": 302.48447204968943
+    },
+    {
+      "day": 384,
+      "category": "Coins Related Issues",
+      "count": 3,
+      "average": 0.7453703703703703,
+      "z_score": 2.841450034378986,
+      "increase_pct": 302.48447204968943
+    },
+    {
+      "day": 389,
+      "category": "Coins Related Issues",
+      "count": 3,
+      "average": 0.7453703703703703,
+      "z_score": 2.841450034378986,
+      "increase_pct": 302.48447204968943
+    },
+    {
+      "day": 466,
+      "category": "Coins Related Issues",
+      "count": 3,
+      "average": 0.7453703703703703,
+      "z_score": 2.841450034378986,
+      "increase_pct": 302.48447204968943
+    },
+    {
+      "day": 583,
+      "category": "Coins Related Issues",
+      "count": 3,
+      "average": 0.7453703703703703,
+      "z_score": 2.841450034378986,
+      "increase_pct": 302.48447204968943
+    },
+    {
+      "day": 589,
+      "category": "Coins Related Issues",
+      "count": 3,
+      "average": 0.7453703703703703,
+      "z_score": 2.841450034378986,
+      "increase_pct": 302.48447204968943
+    },
+    {
+      "day": 597,
+      "category": "Coins Related Issues",
+      "count": 3,
+      "average": 0.7453703703703703,
+      "z_score": 2.841450034378986,
+      "increase_pct": 302.48447204968943
+    },
+    {
+      "day": 603,
+      "category": "Coins Related Issues",
+      "count": 3,
+      "average": 0.7453703703703703,
+      "z_score": 2.841450034378986,
+      "increase_pct": 302.48447204968943
+    },
+    {
+      "day": 657,
+      "category": "Coins Related Issues",
+      "count": 3,
+      "average": 0.7453703703703703,
+      "z_score": 2.841450034378986,
+      "increase_pct": 302.48447204968943
+    },
+    {
+      "day": 678,
+      "category": "Coins Related Issues",
+      "count": 3,
+      "average": 0.7453703703703703,
+      "z_score": 2.841450034378986,
+      "increase_pct": 302.48447204968943
+    },
+    {
+      "day": 709,
+      "category": "Coins Related Issues",
+      "count": 3,
+      "average": 0.7453703703703703,
+      "z_score": 2.841450034378986,
+      "increase_pct": 302.48447204968943
+    },
+    {
+      "day": 17,
+      "category": "Content Discovery Issues",
+      "count": 1,
+      "average": 0.023148148148148147,
+      "z_score": 6.496152707564686,
+      "increase_pct": 4220.0
+    },
+    {
+      "day": 98,
+      "category": "Content Discovery Issues",
+      "count": 1,
+      "average": 0.023148148148148147,
+      "z_score": 6.496152707564686,
+      "increase_pct": 4220.0
+    },
+    {
+      "day": 350,
+      "category": "Content Discovery Issues",
+      "count": 1,
+      "average": 0.023148148148148147,
+      "z_score": 6.496152707564686,
+      "increase_pct": 4220.0
+    },
+    {
+      "day": 364,
+      "category": "Content Discovery Issues",
+      "count": 1,
+      "average": 0.023148148148148147,
+      "z_score": 6.496152707564686,
+      "increase_pct": 4220.0
+    },
+    {
+      "day": 372,
+      "category": "Content Discovery Issues",
+      "count": 1,
+      "average": 0.023148148148148147,
+      "z_score": 6.496152707564686,
+      "increase_pct": 4220.0
+    },
+    {
+      "day": 466,
+      "category": "Content Discovery Issues",
+      "count": 1,
+      "average": 0.023148148148148147,
+      "z_score": 6.496152707564686,
+      "increase_pct": 4220.0
+    },
+    {
+      "day": 507,
+      "category": "Content Discovery Issues",
+      "count": 1,
+      "average": 0.023148148148148147,
+      "z_score": 6.496152707564686,
+      "increase_pct": 4220.0
+    },
+    {
+      "day": 549,
+      "category": "Content Discovery Issues",
+      "count": 1,
+      "average": 0.023148148148148147,
+      "z_score": 6.496152707564686,
+      "increase_pct": 4220.0
+    },
+    {
+      "day": 563,
+      "category": "Content Discovery Issues",
+      "count": 1,
+      "average": 0.023148148148148147,
+      "z_score": 6.496152707564686,
+      "increase_pct": 4220.0
+    },
+    {
+      "day": 666,
+      "category": "Content Discovery Issues",
+      "count": 1,
+      "average": 0.023148148148148147,
+      "z_score": 6.496152707564686,
+      "increase_pct": 4220.0
+    },
+    {
+      "day": 9,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 21,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 26,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 34,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 85,
+      "category": "Listening Related Issues",
+      "count": 3,
+      "average": 0.3773148148148148,
+      "z_score": 4.091586053785248,
+      "increase_pct": 695.0920245398772
+    },
+    {
+      "day": 89,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 145,
+      "category": "Listening Related Issues",
+      "count": 3,
+      "average": 0.3773148148148148,
+      "z_score": 4.091586053785248,
+      "increase_pct": 695.0920245398772
+    },
+    {
+      "day": 169,
+      "category": "Listening Related Issues",
+      "count": 3,
+      "average": 0.3773148148148148,
+      "z_score": 4.091586053785248,
+      "increase_pct": 695.0920245398772
+    },
+    {
+      "day": 215,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 218,
+      "category": "Listening Related Issues",
+      "count": 3,
+      "average": 0.3773148148148148,
+      "z_score": 4.091586053785248,
+      "increase_pct": 695.0920245398772
+    },
+    {
+      "day": 230,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 282,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 285,
+      "category": "Listening Related Issues",
+      "count": 3,
+      "average": 0.3773148148148148,
+      "z_score": 4.091586053785248,
+      "increase_pct": 695.0920245398772
+    },
+    {
+      "day": 327,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 364,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 366,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 462,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 467,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 477,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 496,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 511,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 526,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 556,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 626,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 627,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 650,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 710,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 724,
+      "category": "Listening Related Issues",
+      "count": 2,
+      "average": 0.3773148148148148,
+      "z_score": 2.5315108770551267,
+      "increase_pct": 430.0613496932515
+    },
+    {
+      "day": 17,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 18,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 58,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 60,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 95,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 96,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 108,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 109,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 112,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 132,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 133,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 135,
+      "category": "Content Quality Issues",
+      "count": 2,
+      "average": 0.09027777777777778,
+      "z_score": 6.317250328666704,
+      "increase_pct": 2115.3846153846157
+    },
+    {
+      "day": 170,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 184,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 185,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 214,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 248,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 250,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 267,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 301,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 337,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 411,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 496,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 506,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 509,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 511,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 520,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 527,
+      "category": "Content Quality Issues",
+      "count": 2,
+      "average": 0.09027777777777778,
+      "z_score": 6.317250328666704,
+      "increase_pct": 2115.3846153846157
+    },
+    {
+      "day": 556,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 603,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 607,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 608,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 614,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 626,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 633,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 679,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 694,
+      "category": "Content Quality Issues",
+      "count": 1,
+      "average": 0.09027777777777778,
+      "z_score": 3.0093083383830477,
+      "increase_pct": 1007.6923076923076
+    },
+    {
+      "day": 5,
+      "category": "User Experience Issues",
+      "count": 3,
+      "average": 0.42824074074074076,
+      "z_score": 4.009002032044072,
+      "increase_pct": 600.5405405405405
+    },
+    {
+      "day": 19,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 43,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 85,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 89,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 114,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 117,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 136,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 171,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 205,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 230,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 268,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 292,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 304,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 329,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 352,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 365,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 386,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 389,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 548,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 553,
+      "category": "User Experience Issues",
+      "count": 3,
+      "average": 0.42824074074074076,
+      "z_score": 4.009002032044072,
+      "increase_pct": 600.5405405405405
+    },
+    {
+      "day": 559,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 584,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 603,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 608,
+      "category": "User Experience Issues",
+      "count": 3,
+      "average": 0.42824074074074076,
+      "z_score": 4.009002032044072,
+      "increase_pct": 600.5405405405405
+    },
+    {
+      "day": 642,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 667,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 670,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 680,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 723,
+      "category": "User Experience Issues",
+      "count": 2,
+      "average": 0.42824074074074076,
+      "z_score": 2.4501461563977722,
+      "increase_pct": 367.02702702702703
+    },
+    {
+      "day": 123,
+      "category": "Support & Service Issues",
+      "count": 2,
+      "average": 0.1736111111111111,
+      "z_score": 4.354997066773302,
+      "increase_pct": 1052.0
+    },
+    {
+      "day": 133,
+      "category": "Support & Service Issues",
+      "count": 3,
+      "average": 0.1736111111111111,
+      "z_score": 6.739482152763246,
+      "increase_pct": 1628.0
+    },
+    {
+      "day": 390,
+      "category": "Support & Service Issues",
+      "count": 2,
+      "average": 0.1736111111111111,
+      "z_score": 4.354997066773302,
+      "increase_pct": 1052.0
+    },
+    {
+      "day": 453,
+      "category": "Support & Service Issues",
+      "count": 2,
+      "average": 0.1736111111111111,
+      "z_score": 4.354997066773302,
+      "increase_pct": 1052.0
+    },
+    {
+      "day": 678,
+      "category": "Support & Service Issues",
+      "count": 2,
+      "average": 0.1736111111111111,
+      "z_score": 4.354997066773302,
+      "increase_pct": 1052.0
+    },
+    {
+      "day": 26,
+      "category": "Localization Issues",
+      "count": 1,
+      "average": 0.041666666666666664,
+      "z_score": 4.320947608487531,
+      "increase_pct": 2300.0000000000005
+    },
+    {
+      "day": 58,
+      "category": "Localization Issues",
+      "count": 1,
+      "average": 0.041666666666666664,
+      "z_score": 4.320947608487531,
+      "increase_pct": 2300.0000000000005
+    },
+    {
+      "day": 60,
+      "category": "Localization Issues",
+      "count": 1,
+      "average": 0.041666666666666664,
+      "z_score": 4.320947608487531,
+      "increase_pct": 2300.0000000000005
+    },
+    {
+      "day": 268,
+      "category": "Localization Issues",
+      "count": 1,
+      "average": 0.041666666666666664,
+      "z_score": 4.320947608487531,
+      "increase_pct": 2300.0000000000005
+    },
+    {
+      "day": 399,
+      "category": "Localization Issues",
+      "count": 1,
+      "average": 0.041666666666666664,
+      "z_score": 4.320947608487531,
+      "increase_pct": 2300.0000000000005
+    },
+    {
+      "day": 437,
+      "category": "Localization Issues",
+      "count": 1,
+      "average": 0.041666666666666664,
+      "z_score": 4.320947608487531,
+      "increase_pct": 2300.0000000000005
+    },
+    {
+      "day": 456,
+      "category": "Localization Issues",
+      "count": 1,
+      "average": 0.041666666666666664,
+      "z_score": 4.320947608487531,
+      "increase_pct": 2300.0000000000005
+    },
+    {
+      "day": 496,
+      "category": "Localization Issues",
+      "count": 1,
+      "average": 0.041666666666666664,
+      "z_score": 4.320947608487531,
+      "increase_pct": 2300.0000000000005
+    },
+    {
+      "day": 516,
+      "category": "Localization Issues",
+      "count": 1,
+      "average": 0.041666666666666664,
+      "z_score": 4.320947608487531,
+      "increase_pct": 2300.0000000000005
+    },
+    {
+      "day": 520,
+      "category": "Localization Issues",
+      "count": 1,
+      "average": 0.041666666666666664,
+      "z_score": 4.320947608487531,
+      "increase_pct": 2300.0000000000005
+    },
+    {
+      "day": 550,
+      "category": "Localization Issues",
+      "count": 1,
+      "average": 0.041666666666666664,
+      "z_score": 4.320947608487531,
+      "increase_pct": 2300.0000000000005
+    },
+    {
+      "day": 568,
+      "category": "Localization Issues",
+      "count": 1,
+      "average": 0.041666666666666664,
+      "z_score": 4.320947608487531,
+      "increase_pct": 2300.0000000000005
+    },
+    {
+      "day": 572,
+      "category": "Localization Issues",
+      "count": 1,
+      "average": 0.041666666666666664,
+      "z_score": 4.320947608487531,
+      "increase_pct": 2300.0000000000005
+    },
+    {
+      "day": 607,
+      "category": "Localization Issues",
+      "count": 2,
+      "average": 0.041666666666666664,
+      "z_score": 8.829762504300607,
+      "increase_pct": 4700.0
+    },
+    {
+      "day": 634,
+      "category": "Localization Issues",
+      "count": 2,
+      "average": 0.041666666666666664,
+      "z_score": 8.829762504300607,
+      "increase_pct": 4700.0
+    },
+    {
+      "day": 679,
+      "category": "Localization Issues",
+      "count": 1,
+      "average": 0.041666666666666664,
+      "z_score": 4.320947608487531,
+      "increase_pct": 2300.0000000000005
+    }
+  ],
+  "recommendations": [
+    "URGENT: Investigate anomalous spikes detected - potential system issues or external events",
+    "HIGH PRIORITY: Address 'Coins Related Issues' issues - represents 28.6% of all complaints"
+  ]
+}

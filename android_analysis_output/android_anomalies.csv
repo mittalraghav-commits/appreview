@@ -1,0 +1,189 @@
+day,category,count,average,z_score,increase_pct
+1,Ads Related Issues,1,0.12,2.59,764.00
+5,Ads Related Issues,1,0.12,2.59,764.00
+8,Ads Related Issues,1,0.12,2.59,764.00
+9,Ads Related Issues,1,0.12,2.59,764.00
+28,Ads Related Issues,1,0.12,2.59,764.00
+30,Ads Related Issues,1,0.12,2.59,764.00
+77,Ads Related Issues,1,0.12,2.59,764.00
+82,Ads Related Issues,1,0.12,2.59,764.00
+116,Ads Related Issues,1,0.12,2.59,764.00
+122,Ads Related Issues,1,0.12,2.59,764.00
+128,Ads Related Issues,1,0.12,2.59,764.00
+130,Ads Related Issues,1,0.12,2.59,764.00
+171,Ads Related Issues,1,0.12,2.59,764.00
+181,Ads Related Issues,1,0.12,2.59,764.00
+182,Ads Related Issues,1,0.12,2.59,764.00
+201,Ads Related Issues,1,0.12,2.59,764.00
+205,Ads Related Issues,1,0.12,2.59,764.00
+233,Ads Related Issues,1,0.12,2.59,764.00
+304,Ads Related Issues,1,0.12,2.59,764.00
+307,Ads Related Issues,1,0.12,2.59,764.00
+340,Ads Related Issues,1,0.12,2.59,764.00
+380,Ads Related Issues,1,0.12,2.59,764.00
+383,Ads Related Issues,1,0.12,2.59,764.00
+384,Ads Related Issues,1,0.12,2.59,764.00
+389,Ads Related Issues,1,0.12,2.59,764.00
+417,Ads Related Issues,1,0.12,2.59,764.00
+428,Ads Related Issues,1,0.12,2.59,764.00
+470,Ads Related Issues,2,0.12,5.53,1628.00
+485,Ads Related Issues,2,0.12,5.53,1628.00
+486,Ads Related Issues,1,0.12,2.59,764.00
+503,Ads Related Issues,1,0.12,2.59,764.00
+508,Ads Related Issues,1,0.12,2.59,764.00
+521,Ads Related Issues,1,0.12,2.59,764.00
+522,Ads Related Issues,1,0.12,2.59,764.00
+551,Ads Related Issues,1,0.12,2.59,764.00
+559,Ads Related Issues,1,0.12,2.59,764.00
+583,Ads Related Issues,1,0.12,2.59,764.00
+584,Ads Related Issues,2,0.12,5.53,1628.00
+619,Ads Related Issues,1,0.12,2.59,764.00
+667,Ads Related Issues,1,0.12,2.59,764.00
+670,Ads Related Issues,1,0.12,2.59,764.00
+677,Ads Related Issues,1,0.12,2.59,764.00
+678,Ads Related Issues,1,0.12,2.59,764.00
+681,Ads Related Issues,1,0.12,2.59,764.00
+693,Ads Related Issues,1,0.12,2.59,764.00
+718,Ads Related Issues,1,0.12,2.59,764.00
+723,Ads Related Issues,1,0.12,2.59,764.00
+8,Coins Related Issues,3,0.75,2.84,302.48
+52,Coins Related Issues,3,0.75,2.84,302.48
+126,Coins Related Issues,3,0.75,2.84,302.48
+287,Coins Related Issues,3,0.75,2.84,302.48
+290,Coins Related Issues,3,0.75,2.84,302.48
+384,Coins Related Issues,3,0.75,2.84,302.48
+389,Coins Related Issues,3,0.75,2.84,302.48
+466,Coins Related Issues,3,0.75,2.84,302.48
+583,Coins Related Issues,3,0.75,2.84,302.48
+589,Coins Related Issues,3,0.75,2.84,302.48
+597,Coins Related Issues,3,0.75,2.84,302.48
+603,Coins Related Issues,3,0.75,2.84,302.48
+657,Coins Related Issues,3,0.75,2.84,302.48
+678,Coins Related Issues,3,0.75,2.84,302.48
+709,Coins Related Issues,3,0.75,2.84,302.48
+17,Content Discovery Issues,1,0.02,6.50,4220.00
+98,Content Discovery Issues,1,0.02,6.50,4220.00
+350,Content Discovery Issues,1,0.02,6.50,4220.00
+364,Content Discovery Issues,1,0.02,6.50,4220.00
+372,Content Discovery Issues,1,0.02,6.50,4220.00
+466,Content Discovery Issues,1,0.02,6.50,4220.00
+507,Content Discovery Issues,1,0.02,6.50,4220.00
+549,Content Discovery Issues,1,0.02,6.50,4220.00
+563,Content Discovery Issues,1,0.02,6.50,4220.00
+666,Content Discovery Issues,1,0.02,6.50,4220.00
+9,Listening Related Issues,2,0.38,2.53,430.06
+21,Listening Related Issues,2,0.38,2.53,430.06
+26,Listening Related Issues,2,0.38,2.53,430.06
+34,Listening Related Issues,2,0.38,2.53,430.06
+85,Listening Related Issues,3,0.38,4.09,695.09
+89,Listening Related Issues,2,0.38,2.53,430.06
+145,Listening Related Issues,3,0.38,4.09,695.09
+169,Listening Related Issues,3,0.38,4.09,695.09
+215,Listening Related Issues,2,0.38,2.53,430.06
+218,Listening Related Issues,3,0.38,4.09,695.09
+230,Listening Related Issues,2,0.38,2.53,430.06
+282,Listening Related Issues,2,0.38,2.53,430.06
+285,Listening Related Issues,3,0.38,4.09,695.09
+327,Listening Related Issues,2,0.38,2.53,430.06
+364,Listening Related Issues,2,0.38,2.53,430.06
+366,Listening Related Issues,2,0.38,2.53,430.06
+462,Listening Related Issues,2,0.38,2.53,430.06
+467,Listening Related Issues,2,0.38,2.53,430.06
+477,Listening Related Issues,2,0.38,2.53,430.06
+496,Listening Related Issues,2,0.38,2.53,430.06
+511,Listening Related Issues,2,0.38,2.53,430.06
+526,Listening Related Issues,2,0.38,2.53,430.06
+556,Listening Related Issues,2,0.38,2.53,430.06
+626,Listening Related Issues,2,0.38,2.53,430.06
+627,Listening Related Issues,2,0.38,2.53,430.06
+650,Listening Related Issues,2,0.38,2.53,430.06
+710,Listening Related Issues,2,0.38,2.53,430.06
+724,Listening Related Issues,2,0.38,2.53,430.06
+17,Content Quality Issues,1,0.09,3.01,1007.69
+18,Content Quality Issues,1,0.09,3.01,1007.69
+58,Content Quality Issues,1,0.09,3.01,1007.69
+60,Content Quality Issues,1,0.09,3.01,1007.69
+95,Content Quality Issues,1,0.09,3.01,1007.69
+96,Content Quality Issues,1,0.09,3.01,1007.69
+108,Content Quality Issues,1,0.09,3.01,1007.69
+109,Content Quality Issues,1,0.09,3.01,1007.69
+112,Content Quality Issues,1,0.09,3.01,1007.69
+132,Content Quality Issues,1,0.09,3.01,1007.69
+133,Content Quality Issues,1,0.09,3.01,1007.69
+135,Content Quality Issues,2,0.09,6.32,2115.38
+170,Content Quality Issues,1,0.09,3.01,1007.69
+184,Content Quality Issues,1,0.09,3.01,1007.69
+185,Content Quality Issues,1,0.09,3.01,1007.69
+214,Content Quality Issues,1,0.09,3.01,1007.69
+248,Content Quality Issues,1,0.09,3.01,1007.69
+250,Content Quality Issues,1,0.09,3.01,1007.69
+267,Content Quality Issues,1,0.09,3.01,1007.69
+301,Content Quality Issues,1,0.09,3.01,1007.69
+337,Content Quality Issues,1,0.09,3.01,1007.69
+411,Content Quality Issues,1,0.09,3.01,1007.69
+496,Content Quality Issues,1,0.09,3.01,1007.69
+506,Content Quality Issues,1,0.09,3.01,1007.69
+509,Content Quality Issues,1,0.09,3.01,1007.69
+511,Content Quality Issues,1,0.09,3.01,1007.69
+520,Content Quality Issues,1,0.09,3.01,1007.69
+527,Content Quality Issues,2,0.09,6.32,2115.38
+556,Content Quality Issues,1,0.09,3.01,1007.69
+603,Content Quality Issues,1,0.09,3.01,1007.69
+607,Content Quality Issues,1,0.09,3.01,1007.69
+608,Content Quality Issues,1,0.09,3.01,1007.69
+614,Content Quality Issues,1,0.09,3.01,1007.69
+626,Content Quality Issues,1,0.09,3.01,1007.69
+633,Content Quality Issues,1,0.09,3.01,1007.69
+679,Content Quality Issues,1,0.09,3.01,1007.69
+694,Content Quality Issues,1,0.09,3.01,1007.69
+5,User Experience Issues,3,0.43,4.01,600.54
+19,User Experience Issues,2,0.43,2.45,367.03
+43,User Experience Issues,2,0.43,2.45,367.03
+85,User Experience Issues,2,0.43,2.45,367.03
+89,User Experience Issues,2,0.43,2.45,367.03
+114,User Experience Issues,2,0.43,2.45,367.03
+117,User Experience Issues,2,0.43,2.45,367.03
+136,User Experience Issues,2,0.43,2.45,367.03
+171,User Experience Issues,2,0.43,2.45,367.03
+205,User Experience Issues,2,0.43,2.45,367.03
+230,User Experience Issues,2,0.43,2.45,367.03
+268,User Experience Issues,2,0.43,2.45,367.03
+292,User Experience Issues,2,0.43,2.45,367.03
+304,User Experience Issues,2,0.43,2.45,367.03
+329,User Experience Issues,2,0.43,2.45,367.03
+352,User Experience Issues,2,0.43,2.45,367.03
+365,User Experience Issues,2,0.43,2.45,367.03
+386,User Experience Issues,2,0.43,2.45,367.03
+389,User Experience Issues,2,0.43,2.45,367.03
+548,User Experience Issues,2,0.43,2.45,367.03
+553,User Experience Issues,3,0.43,4.01,600.54
+559,User Experience Issues,2,0.43,2.45,367.03
+584,User Experience Issues,2,0.43,2.45,367.03
+603,User Experience Issues,2,0.43,2.45,367.03
+608,User Experience Issues,3,0.43,4.01,600.54
+642,User Experience Issues,2,0.43,2.45,367.03
+667,User Experience Issues,2,0.43,2.45,367.03
+670,User Experience Issues,2,0.43,2.45,367.03
+680,User Experience Issues,2,0.43,2.45,367.03
+723,User Experience Issues,2,0.43,2.45,367.03
+123,Support & Service Issues,2,0.17,4.35,1052.00
+133,Support & Service Issues,3,0.17,6.74,1628.00
+390,Support & Service Issues,2,0.17,4.35,1052.00
+453,Support & Service Issues,2,0.17,4.35,1052.00
+678,Support & Service Issues,2,0.17,4.35,1052.00
+26,Localization Issues,1,0.04,4.32,2300.00
+58,Localization Issues,1,0.04,4.32,2300.00
+60,Localization Issues,1,0.04,4.32,2300.00
+268,Localization Issues,1,0.04,4.32,2300.00
+399,Localization Issues,1,0.04,4.32,2300.00
+437,Localization Issues,1,0.04,4.32,2300.00
+456,Localization Issues,1,0.04,4.32,2300.00
+496,Localization Issues,1,0.04,4.32,2300.00
+516,Localization Issues,1,0.04,4.32,2300.00
+520,Localization Issues,1,0.04,4.32,2300.00
+550,Localization Issues,1,0.04,4.32,2300.00
+568,Localization Issues,1,0.04,4.32,2300.00
+572,Localization Issues,1,0.04,4.32,2300.00
+607,Localization Issues,2,0.04,8.83,4700.00
+634,Localization Issues,2,0.04,8.83,4700.00
+679,Localization Issues,1,0.04,4.32,2300.00
