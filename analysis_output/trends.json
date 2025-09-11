@@ -1,615 +1,95 @@
 {
   "by_day_cat": {
-    "2": {
-      "Monetization & Pricing": 40,
-      "Playback & Performance": 17,
-      "Content & UX": 33,
-      "Payments & Support": 3,
-      "Localization & Availability": 1
-    },
-    "3": {
-      "Monetization & Pricing": 13,
-      "Content & UX": 13,
-      "Playback & Performance": 7,
-      "Localization & Availability": 1,
-      "Payments & Support": 2
-    },
-    "4": {
-      "Content & UX": 15,
-      "Playback & Performance": 8,
-      "Monetization & Pricing": 16,
-      "Payments & Support": 3
-    },
-    "5": {
-      "Content & UX": 14,
-      "Monetization & Pricing": 17,
-      "Playback & Performance": 6,
-      "Payments & Support": 2
-    },
-    "8": {
-      "Monetization & Pricing": 20,
-      "Content & UX": 19,
-      "Playback & Performance": 9,
-      "Payments & Support": 4
-    },
-    "9": {
-      "Monetization & Pricing": 13,
-      "Content & UX": 6,
-      "Playback & Performance": 3,
-      "Payments & Support": 1
-    },
-    "10": {
-      "Monetization & Pricing": 13,
-      "Playback & Performance": 4,
-      "Content & UX": 14,
-      "Payments & Support": 1
-    },
-    "11": {
-      "Content & UX": 13,
-      "Monetization & Pricing": 13,
-      "Playback & Performance": 3,
-      "Payments & Support": 1
-    },
-    "12": {
-      "Monetization & Pricing": 11,
-      "Playback & Performance": 6,
-      "Content & UX": 6,
-      "Payments & Support": 1
-    },
-    "13": {
-      "Playback & Performance": 6,
-      "Monetization & Pricing": 14,
-      "Payments & Support": 2,
-      "Content & UX": 7
-    },
-    "15": {
-      "Monetization & Pricing": 11,
-      "Content & UX": 12,
-      "Playback & Performance": 3,
-      "Payments & Support": 1
-    },
-    "16": {
-      "Monetization & Pricing": 19,
-      "Content & UX": 15,
-      "Playback & Performance": 5
-    },
-    "17": {
-      "Content & UX": 7,
-      "Monetization & Pricing": 10,
-      "Playback & Performance": 4,
-      "Payments & Support": 2
-    },
-    "18": {
-      "Playback & Performance": 6,
-      "Content & UX": 13,
-      "Monetization & Pricing": 12,
-      "Localization & Availability": 1
-    },
-    "19": {
-      "Monetization & Pricing": 32,
-      "Playback & Performance": 6,
-      "Content & UX": 20,
-      "Payments & Support": 7,
-      "Localization & Availability": 1
-    },
-    "20": {
-      "Monetization & Pricing": 19,
-      "Payments & Support": 2,
-      "Content & UX": 11,
-      "Playback & Performance": 2
-    },
-    "21": {
-      "Monetization & Pricing": 44,
-      "Playback & Performance": 21,
-      "Content & UX": 40,
-      "Localization & Availability": 5,
-      "Payments & Support": 7
-    },
-    "22": {
-      "Content & UX": 13,
-      "Localization & Availability": 3,
-      "Playback & Performance": 6,
-      "Monetization & Pricing": 17,
-      "Payments & Support": 1
-    },
-    "23": {
-      "Monetization & Pricing": 34,
-      "Playback & Performance": 12,
-      "Content & UX": 28,
-      "Payments & Support": 4,
-      "Localization & Availability": 2
-    },
-    "24": {
-      "Playback & Performance": 2,
-      "Monetization & Pricing": 16,
-      "Content & UX": 12,
-      "Payments & Support": 3,
-      "Localization & Availability": 1
-    },
-    "25": {
-      "Monetization & Pricing": 14,
-      "Content & UX": 12,
-      "Playback & Performance": 6,
-      "Payments & Support": 1,
-      "Localization & Availability": 1
-    },
-    "26": {
-      "Content & UX": 9,
-      "Monetization & Pricing": 12,
-      "Payments & Support": 1,
-      "Playback & Performance": 5
-    },
-    "27": {
-      "Monetization & Pricing": 42,
-      "Content & UX": 32,
-      "Playback & Performance": 9,
-      "Localization & Availability": 2,
-      "Payments & Support": 8
-    },
-    "28": {
+    "1": {
+      "Content & UX": 71,
       "Payments & Support": 5,
-      "Monetization & Pricing": 14,
-      "Playback & Performance": 7,
-      "Content & UX": 4
+      "Monetization & Pricing": 84,
+      "Playback & Performance": 19
+    },
+    "2": {
+      "Monetization & Pricing": 206,
+      "Content & UX": 162,
+      "Playback & Performance": 40,
+      "Localization & Availability": 6,
+      "Payments & Support": 25
     }
   },
   "by_week_cat": {
     "1": {
-      "Monetization & Pricing": 86,
-      "Playback & Performance": 38,
-      "Content & UX": 75,
-      "Payments & Support": 10,
-      "Localization & Availability": 2
-    },
-    "2": {
-      "Monetization & Pricing": 84,
-      "Content & UX": 65,
-      "Playback & Performance": 31,
-      "Payments & Support": 10
-    },
-    "3": {
-      "Monetization & Pricing": 147,
-      "Content & UX": 118,
-      "Playback & Performance": 47,
-      "Payments & Support": 19,
-      "Localization & Availability": 7
-    },
-    "4": {
-      "Content & UX": 110,
-      "Localization & Availability": 9,
-      "Playback & Performance": 47,
-      "Monetization & Pricing": 149,
-      "Payments & Support": 23
+      "Content & UX": 233,
+      "Payments & Support": 30,
+      "Monetization & Pricing": 290,
+      "Playback & Performance": 59,
+      "Localization & Availability": 6
     }
   },
   "by_day_sub": {
-    "2": {
-      "Ads gating / too many ads": 14,
-      "Offline / download issues": 9,
-      "Visual vs audio expectation": 8,
-      "Misleading ads / bait-and-switch": 6,
-      "Story mismatch vs ads": 3,
-      "Too expensive / high coin cost": 24,
-      "Playback jumps / episode switching": 3,
-      "Unauthorized charge / auto pay": 2,
-      "AI voices / quality": 20,
-      "Subscription needed / request": 11,
-      "Too slow unlock / few free episodes": 4,
-      "Notifications / interruptions": 1,
-      "Crashes / app not working": 4,
-      "Billing / refund / trial issues": 3,
-      "Buffering / won't load": 1,
-      "Missing languages / dubbing": 1
-    },
-    "3": {
-      "Ads gating / too many ads": 6,
-      "AI voices / quality": 11,
-      "Subscription needed / request": 3,
-      "Offline / download issues": 4,
-      "Too expensive / high coin cost": 9,
-      "Crashes / app not working": 3,
-      "Too slow unlock / few free episodes": 1,
-      "Missing languages / dubbing": 1,
-      "Support unresponsive": 2,
-      "Visual vs audio expectation": 1
-    },
-    "4": {
-      "AI voices / quality": 12,
-      "Crashes / app not working": 3,
-      "Offline / download issues": 4,
-      "Too expensive / high coin cost": 7,
-      "Subscription needed / request": 6,
-      "Ads gating / too many ads": 7,
-      "Billing / refund / trial issues": 3,
-      "Too slow unlock / few free episodes": 1,
-      "Buffering / won't load": 2,
-      "Visual vs audio expectation": 2,
-      "Notifications / interruptions": 1
-    },
-    "5": {
-      "AI voices / quality": 14,
-      "Ads gating / too many ads": 7,
-      "Offline / download issues": 3,
-      "Too slow unlock / few free episodes": 2,
-      "Too expensive / high coin cost": 8,
-      "Visual vs audio expectation": 1,
-      "Support unresponsive": 2,
-      "Crashes / app not working": 2,
-      "Misleading ads / bait-and-switch": 2,
-      "Playback jumps / episode switching": 1,
-      "Subscription needed / request": 5
-    },
-    "8": {
-      "Misleading ads / bait-and-switch": 5,
-      "AI voices / quality": 15,
-      "Too expensive / high coin cost": 12,
-      "Subscription needed / request": 7,
-      "Unauthorized charge / auto pay": 1,
-      "Crashes / app not working": 6,
-      "Ads gating / too many ads": 6,
-      "Offline / download issues": 3,
-      "Support unresponsive": 4,
-      "Too slow unlock / few free episodes": 2,
-      "Billing / refund / trial issues": 2,
-      "Visual vs audio expectation": 3
-    },
-    "9": {
-      "Too expensive / high coin cost": 10,
-      "AI voices / quality": 4,
-      "Ads gating / too many ads": 4,
-      "Buffering / won't load": 1,
-      "Crashes / app not working": 2,
-      "Too slow unlock / few free episodes": 1,
-      "Subscription needed / request": 2,
-      "Support unresponsive": 1,
-      "Notifications / interruptions": 1
-    },
-    "10": {
-      "Too expensive / high coin cost": 9,
-      "Offline / download issues": 3,
-      "AI voices / quality": 12,
-      "Ads gating / too many ads": 5,
-      "Visual vs audio expectation": 2,
-      "Support unresponsive": 1,
-      "Crashes / app not working": 1,
-      "Subscription needed / request": 3
-    },
-    "11": {
-      "AI voices / quality": 11,
-      "Subscription needed / request": 4,
-      "Offline / download issues": 2,
-      "Too expensive / high coin cost": 9,
-      "Ads gating / too many ads": 7,
-      "Too slow unlock / few free episodes": 2,
-      "Crashes / app not working": 1,
-      "Billing / refund / trial issues": 1,
-      "Visual vs audio expectation": 1,
-      "Unauthorized charge / auto pay": 1
-    },
-    "12": {
-      "Too expensive / high coin cost": 8,
-      "Ads gating / too many ads": 4,
-      "Offline / download issues": 3,
-      "Crashes / app not working": 3,
-      "AI voices / quality": 6,
-      "Coin loss / inconsistency": 1,
-      "Support unresponsive": 1
-    },
-    "13": {
-      "Buffering / won't load": 1,
-      "Misleading ads / bait-and-switch": 1,
-      "Too expensive / high coin cost": 12,
-      "Offline / download issues": 3,
-      "Support unresponsive": 2,
-      "Subscription needed / request": 2,
-      "Ads gating / too many ads": 3,
-      "AI voices / quality": 6,
-      "Visual vs audio expectation": 1,
-      "Crashes / app not working": 2,
-      "Too slow unlock / few free episodes": 2
-    },
-    "15": {
-      "Too expensive / high coin cost": 9,
-      "Misleading ads / bait-and-switch": 2,
-      "AI voices / quality": 9,
-      "Too slow unlock / few free episodes": 4,
-      "Ads gating / too many ads": 2,
-      "Visual vs audio expectation": 2,
-      "Crashes / app not working": 2,
-      "Support unresponsive": 1,
-      "Offline / download issues": 1
-    },
-    "16": {
-      "Too expensive / high coin cost": 12,
-      "Subscription needed / request": 6,
-      "AI voices / quality": 12,
-      "Too slow unlock / few free episodes": 3,
-      "Playback jumps / episode switching": 1,
-      "Offline / download issues": 1,
-      "Notifications / interruptions": 1,
-      "Buffering / won't load": 1,
-      "Ads gating / too many ads": 5,
-      "Misleading ads / bait-and-switch": 2,
-      "Crashes / app not working": 2,
-      "Visual vs audio expectation": 2
-    },
-    "17": {
-      "AI voices / quality": 6,
-      "Too expensive / high coin cost": 7,
-      "Ads gating / too many ads": 4,
-      "Misleading ads / bait-and-switch": 1,
-      "Offline / download issues": 3,
-      "Subscription needed / request": 1,
-      "Crashes / app not working": 1,
-      "Too slow unlock / few free episodes": 1,
-      "Support unresponsive": 1,
-      "Billing / refund / trial issues": 1
-    },
-    "18": {
-      "Offline / download issues": 3,
-      "Visual vs audio expectation": 2,
-      "Crashes / app not working": 4,
-      "Ads gating / too many ads": 5,
-      "Too expensive / high coin cost": 9,
-      "AI voices / quality": 7,
-      "Too slow unlock / few free episodes": 6,
-      "Subscription needed / request": 2,
-      "Missing languages / dubbing": 1
-    },
-    "19": {
-      "Ads gating / too many ads": 12,
-      "Crashes / app not working": 4,
-      "Offline / download issues": 3,
-      "Misleading ads / bait-and-switch": 2,
-      "AI voices / quality": 20,
-      "Too expensive / high coin cost": 18,
-      "Too slow unlock / few free episodes": 3,
-      "Support unresponsive": 3,
-      "Subscription needed / request": 12,
-      "Billing / refund / trial issues": 5,
-      "Visual vs audio expectation": 2,
-      "Unauthorized charge / auto pay": 2,
-      "Region restrictions": 1
-    },
-    "20": {
-      "Ads gating / too many ads": 7,
-      "Too expensive / high coin cost": 13,
-      "Billing / refund / trial issues": 2,
-      "Misleading ads / bait-and-switch": 3,
-      "AI voices / quality": 9,
-      "Offline / download issues": 1,
-      "Subscription needed / request": 1,
-      "Visual vs audio expectation": 3,
-      "Crashes / app not working": 1,
-      "Too slow unlock / few free episodes": 1
-    },
-    "21": {
-      "Subscription needed / request": 16,
-      "Crashes / app not working": 15,
-      "Too expensive / high coin cost": 25,
-      "AI voices / quality": 31,
-      "Region restrictions": 1,
-      "Offline / download issues": 6,
-      "Missing languages / dubbing": 4,
-      "Unauthorized charge / auto pay": 2,
-      "Support unresponsive": 2,
-      "Visual vs audio expectation": 7,
-      "Ads gating / too many ads": 17,
-      "Buffering / won't load": 2,
-      "Billing / refund / trial issues": 5,
-      "Misleading ads / bait-and-switch": 2,
-      "Too slow unlock / few free episodes": 4,
-      "Playback jumps / episode switching": 1,
-      "Notifications / interruptions": 1,
-      "Story mismatch vs ads": 2
-    },
-    "22": {
-      "AI voices / quality": 8,
-      "Region restrictions": 1,
-      "Offline / download issues": 3,
-      "Too expensive / high coin cost": 13,
-      "Missing languages / dubbing": 2,
-      "Ads gating / too many ads": 3,
-      "Subscription needed / request": 4,
-      "Crashes / app not working": 3,
-      "Visual vs audio expectation": 4,
-      "Misleading ads / bait-and-switch": 1,
-      "Too slow unlock / few free episodes": 4,
-      "Support unresponsive": 1,
-      "Notifications / interruptions": 1
-    },
-    "23": {
-      "Too expensive / high coin cost": 24,
-      "Subscription needed / request": 6,
-      "Crashes / app not working": 7,
-      "AI voices / quality": 24,
-      "Visual vs audio expectation": 6,
-      "Ads gating / too many ads": 9,
-      "Buffering / won't load": 2,
-      "Support unresponsive": 2,
-      "Unauthorized charge / auto pay": 2,
-      "Billing / refund / trial issues": 2,
-      "Too slow unlock / few free episodes": 3,
-      "Misleading ads / bait-and-switch": 1,
-      "Region restrictions": 2,
-      "Offline / download issues": 3
-    },
-    "24": {
-      "Crashes / app not working": 1,
-      "Too expensive / high coin cost": 10,
-      "Subscription needed / request": 6,
-      "Misleading ads / bait-and-switch": 2,
-      "AI voices / quality": 12,
-      "Support unresponsive": 3,
-      "Ads gating / too many ads": 4,
-      "Coin loss / inconsistency": 1,
-      "Offline / download issues": 1,
-      "Missing languages / dubbing": 1
-    },
-    "25": {
-      "Too expensive / high coin cost": 6,
-      "Ads gating / too many ads": 3,
-      "Too slow unlock / few free episodes": 2,
-      "Subscription needed / request": 4,
-      "AI voices / quality": 10,
-      "Crashes / app not working": 1,
-      "Buffering / won't load": 2,
-      "Misleading ads / bait-and-switch": 2,
-      "Offline / download issues": 3,
-      "Support unresponsive": 1,
-      "Visual vs audio expectation": 1,
-      "Missing languages / dubbing": 1
-    },
-    "26": {
-      "AI voices / quality": 8,
-      "Subscription needed / request": 5,
-      "Too expensive / high coin cost": 10,
-      "Unauthorized charge / auto pay": 1,
-      "Support unresponsive": 1,
-      "Crashes / app not working": 3,
-      "Offline / download issues": 3,
-      "Ads gating / too many ads": 4,
-      "Too slow unlock / few free episodes": 1
-    },
-    "27": {
-      "Subscription needed / request": 15,
-      "Too slow unlock / few free episodes": 5,
-      "Too expensive / high coin cost": 28,
-      "Crashes / app not working": 6,
-      "AI voices / quality": 26,
-      "Ads gating / too many ads": 13,
-      "Missing languages / dubbing": 2,
-      "Offline / download issues": 2,
-      "Notifications / interruptions": 1,
-      "Visual vs audio expectation": 4,
-      "Billing / refund / trial issues": 4,
+    "1": {
+      "AI voices / quality": 60,
       "Support unresponsive": 5,
-      "Playback jumps / episode switching": 1,
+      "Subscription needed / request": 29,
+      "Too expensive / high coin cost": 52,
+      "Visual vs audio expectation": 7,
+      "Ads gating / too many ads": 23,
+      "Offline / download issues": 12,
+      "Crashes / app not working": 5,
+      "Too slow unlock / few free episodes": 9,
+      "Playback jumps / episode switching": 3,
+      "Unauthorized charge / auto pay": 1,
+      "Misleading ads / bait-and-switch": 4,
       "Buffering / won't load": 1
     },
-    "28": {
-      "Support unresponsive": 3,
-      "Subscription needed / request": 4,
-      "Offline / download issues": 2,
-      "Billing / refund / trial issues": 2,
-      "Too expensive / high coin cost": 9,
-      "Playback jumps / episode switching": 2,
-      "Misleading ads / bait-and-switch": 1,
-      "AI voices / quality": 4,
-      "Ads gating / too many ads": 3,
-      "Crashes / app not working": 3
+    "2": {
+      "Too expensive / high coin cost": 169,
+      "Ads gating / too many ads": 58,
+      "AI voices / quality": 134,
+      "Subscription needed / request": 60,
+      "Visual vs audio expectation": 19,
+      "Offline / download issues": 22,
+      "Misleading ads / bait-and-switch": 18,
+      "Missing languages / dubbing": 3,
+      "Too slow unlock / few free episodes": 32,
+      "Support unresponsive": 17,
+      "Region restrictions": 3,
+      "Billing / refund / trial issues": 9,
+      "Story mismatch vs ads": 3,
+      "Playback jumps / episode switching": 8,
+      "Crashes / app not working": 12,
+      "Coin loss / inconsistency": 1,
+      "Buffering / won't load": 3,
+      "Unauthorized charge / auto pay": 1,
+      "Notifications / interruptions": 1
     }
   },
   "by_week_sub": {
     "1": {
-      "Ads gating / too many ads": 34,
-      "Offline / download issues": 20,
-      "Visual vs audio expectation": 12,
-      "Misleading ads / bait-and-switch": 8,
-      "Story mismatch vs ads": 3,
-      "Too expensive / high coin cost": 48,
-      "Playback jumps / episode switching": 4,
+      "AI voices / quality": 194,
+      "Support unresponsive": 22,
+      "Subscription needed / request": 89,
+      "Too expensive / high coin cost": 221,
+      "Visual vs audio expectation": 26,
+      "Ads gating / too many ads": 81,
+      "Offline / download issues": 34,
+      "Crashes / app not working": 17,
+      "Too slow unlock / few free episodes": 41,
+      "Playback jumps / episode switching": 11,
       "Unauthorized charge / auto pay": 2,
-      "AI voices / quality": 57,
-      "Subscription needed / request": 25,
-      "Too slow unlock / few free episodes": 8,
-      "Notifications / interruptions": 2,
-      "Crashes / app not working": 12,
-      "Billing / refund / trial issues": 6,
-      "Buffering / won't load": 3,
-      "Missing languages / dubbing": 2,
-      "Support unresponsive": 4
-    },
-    "2": {
-      "Misleading ads / bait-and-switch": 6,
-      "AI voices / quality": 54,
-      "Too expensive / high coin cost": 60,
-      "Subscription needed / request": 18,
-      "Unauthorized charge / auto pay": 2,
-      "Crashes / app not working": 15,
-      "Ads gating / too many ads": 29,
-      "Offline / download issues": 14,
-      "Support unresponsive": 9,
-      "Too slow unlock / few free episodes": 7,
-      "Billing / refund / trial issues": 3,
-      "Visual vs audio expectation": 7,
-      "Buffering / won't load": 2,
-      "Notifications / interruptions": 1,
-      "Coin loss / inconsistency": 1
-    },
-    "3": {
-      "Too expensive / high coin cost": 93,
-      "Misleading ads / bait-and-switch": 12,
-      "AI voices / quality": 94,
-      "Too slow unlock / few free episodes": 22,
-      "Ads gating / too many ads": 52,
-      "Visual vs audio expectation": 18,
-      "Crashes / app not working": 29,
-      "Support unresponsive": 7,
-      "Offline / download issues": 18,
-      "Subscription needed / request": 38,
-      "Playback jumps / episode switching": 2,
-      "Notifications / interruptions": 2,
-      "Buffering / won't load": 3,
-      "Billing / refund / trial issues": 13,
-      "Missing languages / dubbing": 5,
-      "Unauthorized charge / auto pay": 4,
-      "Region restrictions": 2,
-      "Story mismatch vs ads": 2
-    },
-    "4": {
-      "AI voices / quality": 92,
+      "Misleading ads / bait-and-switch": 22,
+      "Buffering / won't load": 4,
+      "Missing languages / dubbing": 3,
       "Region restrictions": 3,
-      "Offline / download issues": 17,
-      "Too expensive / high coin cost": 100,
-      "Missing languages / dubbing": 6,
-      "Ads gating / too many ads": 39,
-      "Subscription needed / request": 44,
-      "Crashes / app not working": 24,
-      "Visual vs audio expectation": 15,
-      "Misleading ads / bait-and-switch": 7,
-      "Too slow unlock / few free episodes": 15,
-      "Support unresponsive": 16,
-      "Notifications / interruptions": 2,
-      "Buffering / won't load": 5,
-      "Unauthorized charge / auto pay": 3,
-      "Billing / refund / trial issues": 8,
+      "Billing / refund / trial issues": 9,
+      "Story mismatch vs ads": 3,
       "Coin loss / inconsistency": 1,
-      "Playback jumps / episode switching": 3
+      "Notifications / interruptions": 1
     }
   },
   "day_totals": {
-    "2": 90,
-    "3": 41,
-    "4": 49,
-    "5": 42,
-    "7": 1,
-    "8": 52,
-    "9": 36,
-    "10": 39,
-    "11": 34,
-    "12": 36,
-    "13": 28,
-    "15": 30,
-    "16": 36,
-    "17": 36,
-    "18": 40,
-    "19": 75,
-    "20": 43,
-    "21": 129,
-    "22": 47,
-    "23": 80,
-    "24": 41,
-    "25": 35,
-    "26": 35,
-    "27": 84,
-    "28": 32
+    "1": 200,
+    "2": 359
   },
   "week_totals": {
-    "1": 223,
-    "2": 225,
-    "3": 389,
-    "4": 354
+    "1": 559
   },
-  "max_day": 28
+  "max_day": 2
 }

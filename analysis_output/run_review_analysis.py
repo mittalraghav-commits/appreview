@@ -66,6 +66,18 @@ CATEGORY_TO_THEME: Dict[str, str] = {
     "Content & UX": "Content quality & format",
 }
 
+# Fallback subcategory labels per theme to keep subcategories MECE and avoid using theme/category names
+FALLBACK_SUBCATEGORY_FOR_THEME: Dict[str, str] = {
+    "Ads related issues": "General ad complaint",
+    "Coins related issues": "General coin/cost complaint",
+    "Listening related issues": "General playback/performance issue",
+    "Payments & Support": "General payment/support issue",
+    "Localization & Availability": "General localization/availability issue",
+    "Content quality & format": "General content quality/format issue",
+    "Content discovery issues": "Content discovery friction",
+    "Other": "Other",
+}
+
 
 # Heuristic keyword rules for themes when subcategory is missing/unknown
 THEME_REGEXES: List[Tuple[str, re.Pattern]] = [
@@ -129,19 +141,24 @@ def _assign_theme_and_subcat(row: pd.Series) -> List[Tuple[str, str]]:
         for cat in categories:
             theme = CATEGORY_TO_THEME.get(cat)
             if theme:
-                # Use category as subcategory placeholder if no subcategory
-                assignments.append((theme, cat))
+                # Use MECE fallback subcategory for that theme instead of category name
+                fallback_sub = FALLBACK_SUBCATEGORY_FOR_THEME.get(theme, "Other")
+                assignments.append((theme, fallback_sub))
 
     # 3) Discovery-specific detection from text (only add if not already assigned under discovery)
     if DISCOVERY_REGEX.search(review_text):
-        subcat = _infer_discovery_subcategory(review_text) or "Content discovery friction"
-        assignments.append(("Content discovery issues", subcat))
+        # Avoid duplicate discovery assignment
+        existing_discovery = any(t == "Content discovery issues" for t, _ in assignments)
+        if not existing_discovery:
+            subcat = _infer_discovery_subcategory(review_text) or FALLBACK_SUBCATEGORY_FOR_THEME["Content discovery issues"]
+            assignments.append(("Content discovery issues", subcat))
 
     # 4) Heuristic theme detection from text as fallback
     if not assignments:
         for theme_name, pattern in THEME_REGEXES:
             if pattern.search(review_text):
-                assignments.append((theme_name, theme_name))
+                fallback_sub = FALLBACK_SUBCATEGORY_FOR_THEME.get(theme_name, "Other")
+                assignments.append((theme_name, fallback_sub))
                 break
 
     # 5) If still nothing, bucket as Other
